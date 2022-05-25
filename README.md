@@ -18,7 +18,7 @@
     </div>
 </div>
 
-<style>
+
  .grid {
   display: flex;
  }
@@ -28,4 +28,3 @@
 .cole-1-2:last-child {
   margin-left: 20px;
 }
-</style>
