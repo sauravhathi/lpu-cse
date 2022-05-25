@@ -17,14 +17,3 @@
        </div>
     </div>
 </div>
-
-
- .grid {
-  display: flex;
- }
-.col-1-2 {
-  flex: 1;
-}
-.cole-1-2:last-child {
-  margin-left: 20px;
-}
