@@ -1,3 +1,3 @@
 # lpu-cse
  
-**Lovely Professional University Question Papers with Answers**
+**Lovely Professional University End Term Exam Question Papers with Answers**
