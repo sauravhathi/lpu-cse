@@ -18,5 +18,9 @@
     - [Doubly Linked List Conversion](https://realcoder.techss24.com/solved-doubly-linked-list-conversion-contest-problem/523/)
     - [Average of String](https://realcoder.techss24.com/solved-average-of-string-contest-problem/526/)
     - [Rolling Hash](https://realcoder.techss24.com/)
+- ### Graph
+    - [The BFS traversal](https://realcoder.techss24.com/solved-the-bfs-traversal-contest-problem/861/)
+    - [Kth Maximum element of Max-Heap](https://realcoder.techss24.com/solved-kth-maximum-element-of-max-heap-contest-problem/863/)
+    - [Total Strongly Connected Components](https://realcoder.techss24.com/solved-total-strongly-connected-components-contest-problem/865/)
 
 <p align="center">Happy Learning</p>
