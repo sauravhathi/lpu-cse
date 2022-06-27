@@ -1,4 +1,4 @@
-## <p text-align="center">Learn Advanced Java Programming</p>
+## <p align="center">Learn Advanced Java Programming</p>
 
 ```java
 import java.io.*;
