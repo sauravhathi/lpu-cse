@@ -11,6 +11,7 @@ The output prints the concatenated string.
 Sample test cases
 
 **Input 1**
+
 Hello
 
 World
