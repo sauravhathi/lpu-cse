@@ -12,6 +12,7 @@ Sample test cases
 
 **Input 1**
 Hello
+
 World
 
 **Output 1**
