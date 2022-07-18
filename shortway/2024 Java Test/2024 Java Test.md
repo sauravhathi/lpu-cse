@@ -120,6 +120,8 @@ World
 
 **Output 1**
 Hello World
+
+#### Java
 ```java
 import java.util.function.*;
 import java.util.Scanner;
@@ -191,6 +193,7 @@ Sample Output 2:
 
     No
 
+#### Java
 ```java
 import java.util.Scanner;
  class Main
@@ -228,6 +231,8 @@ import java.util.Scanner;
             //sauravhathi
 }
 ```
+
+#### C++
 ```cpp
 #include <iostream>
 using namespace std;
@@ -262,6 +267,7 @@ int main()
     return 0;
 }
 ```
+#### Python
 ```python
 n = int(input())
 for i in range(n):
