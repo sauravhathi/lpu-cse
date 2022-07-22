@@ -1,5 +1,107 @@
 ## 2024 Java test
 
+```
+1. Which of the following will import only static members of java.util.Arrays class?
+
+Ans: import static java.util.Arrays;
+
+2. Which of the following is not a property of a JVM?
+
+Ans: It prevents Java bytecode from being easily decoded/decompiled.
+
+3. Object which can store group of other objects is called
+
+Ans: Collection object
+
+4. Non-static nested classes have access to from enclosing class.
+
+Ans: All the members
+
+5. What will be the output for the following code snippet?
+
+<>
+ArrayList a1 = new ArrayList();
+a1.add("Ravi");
+a1.add("Vijay");
+
+Iterator it = a1.iterator();
+System.out.println(it.next());
+Ans: Ravi
+
+6. Choose the correct option to fill the below code
+
+Answer: sc.nextInt(); sc.next(); sc.nextDouble();
+
+7. Which of the statement is incorrect?
+
+Ans: Every class must contain a main() method.
+
+8. What is the output the following code?
+
+Ans: 1
+
+9. If there are 5 classes, E is derived from D, D from C, C from B and B from A. which class construct will be called first if the object of E or D is created?
+
+Ans: A
+
+10. What will be the output of the following code?
+
+Ans:  a.y = 5
+      b.y = 6
+      a.x = 2
+      b.x = 2
+IdentifyMyParts.x = 2
+11. We want this code to print the titles of each book twice. Why doesn't it?
+
+Ans: None of the above. The code does print each book title twice.
+
+12. What will be the output for the following code snippet?
+
+<>
+HashMap map = new HashMap();
+map.put(1, "E-Box");
+map.put(2, "Learning and Assessment");
+map.put(3, "Platform");
+map.remove(0);
+System.out.println("Values after remove: "+map);
+Ans: Values after remove: {1=E-Box, 2-Learning and Assessment, 3=Platform}
+
+13. How to convert Date object to String?
+
+Ans: SimpleDateFormat sdf = new SimpleDateFormat("yyyy-mm-dd"); Sdf.format(new Date());
+
+14. If an exception occurs within the block, the appropriate exception-handler that is associated with the try block handles the exception.
+
+Ans: try
+
+15. Choose the correct option based on this program?
+
+Answer: When executed, this program prints the following: "The removed element is: 1"
+
+16. Choose the option that contains only primitive literals.
+
+Ans: 1.2D, 1f, 'c'
+
+17. What is the output of this program?
+
+Ans: The program runs fine and displays x[0] is 0.
+
+18. What is one of the most important reasons that Java supports extending classes via inheritance?
+
+Ans: Developers minimize duplicate code in new classes by sharing code in a common parent class.
+
+19. Predict the output.
+
+Ans: [Char, acte, r de, cide, s th, e re, spec, t]
+
+20. Consider the following code snippet. If you deserialize the object and print the field term (term is declared as int and is not a transient), what will it print?
+
+Ans: 57
+
+Block has been deleted or is unavailable.
+
+```
+
 ### Write a program to concatenate two strings using lambda expressions. The lambda expression takes two strings as argument and returns the concatenated string.
 
 Input format
@@ -11,11 +113,15 @@ The output prints the concatenated string.
 Sample test cases
 
 **Input 1**
+
 Hello
+
 World
 
 **Output 1**
 Hello World
+
+#### Java
 ```java
 import java.util.function.*;
 import java.util.Scanner;
@@ -87,6 +193,7 @@ Sample Output 2:
 
     No
 
+#### Java
 ```java
 import java.util.Scanner;
  class Main
@@ -124,6 +231,8 @@ import java.util.Scanner;
             //sauravhathi
 }
 ```
+
+#### C++
 ```cpp
 #include <iostream>
 using namespace std;
@@ -158,6 +267,7 @@ int main()
     return 0;
 }
 ```
+#### Python
 ```python
 n = int(input())
 for i in range(n):
