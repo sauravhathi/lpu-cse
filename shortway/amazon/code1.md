@@ -99,8 +99,11 @@ Username already exists
 #### Explanation
 
 login harry 12345678: There is no username "harry" registered so the login is unsuccessful.
+
 register harry 12345678: There is no username "harry" registered so the registration is successful.
+
 logout harry: There is no username "harry" logged in so the logout is unsuccessful.
+
 register harry harrycool: There is already a username "harry" so the registration is unsuccessful.
 
 ```java
