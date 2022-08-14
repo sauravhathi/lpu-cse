@@ -1,8 +1,10 @@
 1. Which of the following term will appear next in the given series?
 	16807, 2401, 343, ?
+	
 	Ans: 49
 2.  Which of the following word cannot be formed using the letters of the given word?
 	'SUITABILITY'
+	
 	Ans: SUBTLE
 3. In the following question, a group of letters is given which are numbered from 1 to 11. Below are given four alternatives containing a combination of these numbers. Select that combination of numbers, according to which, if letters in the given question are arranged, a meaningful word is formed.
 
