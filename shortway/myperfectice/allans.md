@@ -2704,33 +2704,48 @@ Q15. Deer: Herbivore
 Ans: Lion: Carnivore
 
 1.	If a & b = (𝑎2+2𝑏)(a2+2b)(b + a). Find (4 & 2) + (2 & 1).
+
 Ans: 45
 2.	Find the unit digit of 128 × 96 × 43 × 24.
+
 Ans: 6
 3.	Find the last digit of 981 – 416.
+
 Ans: 3
 4.	If a # b = (3a – 2b) + (ab). Find 3 # 5.
+
 Ans: 14
 5.	Which of the following will completely divide 20,683?
+
 Ans: 13
 6.	Find the last digit of 5124 + 6121.
+
 Ans: 1
 7.	A man travels half of the journey at 30 km/hr and the remaining half at 45 km/hr. If he travels for 5 hours to cover his entire journey find the total distance traveled by the man.
+
 Ans: 180 km
 8.	Find last digit of 233 × 66 × 75.
+
 Ans: 4
 9.	Simplify (72+42+56)−(72+42−56)/28
+
 Ans: 4
 10.	Rahul rides his bicycle for 10 km at a speed of 12 km/hr. He rested for 10 minutes and again travels 12 km at 10 km/hr. Find the average speed of Rahul.
+
 Ans: 10 km/hr
 11.	Find the approximate value 0.2+0.3+0.24/√+0.3√
+
 Ans: 1
 12.	A train reduces his speed by 1/3 of its normal speed due to which it took 1 hour extra to reach its destination. Find the time (in hours) taken by the train to reach its destination when traveling at its normal speed.
+
 Ans: 3 hours
 13.	A train running at a speed of 18 m/s crosses a pole in 12.5 seconds. Find the length of the train.
+
 Ans: 225 meter
 14.	If (343)y = 16807. Find the value of (y).
+
 Ans: 5/3
 15.	Which of the following will completely divide 14,874?
+16.	
 Ans: 6
 
