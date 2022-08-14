@@ -2763,3 +2763,62 @@ Ans: 5/3
 
 Ans: 6
 
+1.	Choose the correct synonym (a word similar in meaning) from the given choices of ‘Abstract’?
+
+Ans: Hypothetical
+
+2.	Choose the correct synonym (a word similar in meaning) from the given choices of ‘Ardor’?
+
+Ans: Passion
+
+3.	Choose the correct synonym (a word similar in meaning) from the given choices of ‘Ballot’?
+
+Ans: Franchise
+
+4.	Choose the correct synonym (a word similar in meaning) from the given choices of ‘Crusade’?
+
+Ans: Expedition
+
+5.	Which of the following can replace the given underlined statement with a single word? He is the one who is extremely greedy to get and keep riches.
+
+Ans: Avaricious
+
+6.	Choose the correct antonym (word opposite in meaning) from the given choices of ‘Homicide’?
+
+Ans: Birth
+
+7.	Choose the correct antonym (word opposite in meaning) from the given choices of ‘Gratis’?
+
+Ans: Expensive
+
+8.	Choose the correct antonym (word opposite in meaning) from the given choices of ‘Encounter’?
+
+Ans: Evasion
+
+9.	Which of the following can replace the given underlined statement with a single word? My friend does not believe in the existence of God.
+
+Ans: Atheist
+
+10.	Which of the following can replace the given underlined statement with a single word? She is the one who always opposes the other people.
+
+Ans: Antagonist
+
+11.	Choose the correct antonym (word opposite in meaning) from the given choices of ‘Hearsay’?
+
+Ans: Quiet
+
+12.	Choose the correct antonym (word opposite in meaning) from the given choices of ‘Enormous’?
+
+Ans: Insignificant
+
+13.	Which of the following can replace the given underlined statement with a single word? I saw a public notice offering goods at a very heavy discount.
+
+Ans: Advertisement
+
+14.	Choose the correct synonym (a word similar in meaning) from the given choices of ‘Convention’?
+
+Ans: Show
+
+15.	Which of the following can replace the given underlined statement with a single word? True friends are example of pure happiness.
+
+Ans: Bliss
