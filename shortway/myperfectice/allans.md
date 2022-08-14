@@ -1791,3 +1791,915 @@ MN,  ?,  WZ, BF
 
 	Ans: W
 
+Q1. Find the missing term in the given series.
+
+64, 72, 69, 77, ?, 82
+
+Ans: 74
+
+
+Q2. Which of the following term will appear next in the given series?
+
+B4, D16, F36
+
+Ans: H64
+
+
+
+
+Q3. Which of the following element will appear 5th to the left of the 13th element from the left in the given series?
+
+X @ 9 7 # q 8 % M j K 7 &> S + Z ” 3 *
+
+Ans: %
+
+
+Q4. Which of the following term will appear next in the given series?
+
+4, 9, 10, 7, 16, 5, ?
+ 
+Ans: 22
+
+
+Q5. Find the missing term in the given series.
+
+11, 19, 35, ?, 91
+
+Ans: 59
+
+
+Q6. How many meaningful word/words can be formed using the 2nd, 3rd, 4th, 5th and 8th letters of the word ‘MOUSTACHE’?
+
+Ans: More than 2
+
+
+Q7. If by arranging the letters of the jumbled word ‘RUSUAT’, the name of a sun sign is formed, then, which of the following letter will appear at the 3rd place from the left end of the name of that sun sign?
+
+Ans: U
+
+
+Q8. Which of the following term will appear next in the given series?
+
+24, 60, 120, 210,  ?
+
+Ans: 336
+
+
+Q9. Find the missing term in the given series.
+
+MN,  ?, WZ, BF
+
+Ans: RT
+
+
+Q10. Which of the following word cannot be formed using the letters of the given word?
+
+'SUITABILITY'
+
+Ans: SUBTLE
+
+
+Q11. Which of the following term will appear next in the given series?
+ 
+C,F,I,?
+
+Ans: L
+
+Q12. If the second half of the English alphabets are reversed then which of the following letter will appear 7th to the right of 10th letter from the left end?
+
+Ans: W
+
+
+Q13. Which of the following term will appear next in the given series?
+
+16807, 2401, 343, ?
+
+Ans: 49
+
+
+Q14.  In the following question, a group of letters is given which are numbered from 1 to
+
+11.	Below are given four alternatives containing a combination of these numbers. Select that combination of numbers, according to which, if letters in the given question are arranged, a meaningful word is formed.
+
+
+Ans: 8, 1, 10, 4, 11, 2, 5, 3, 7, 9, 6
+
+
+Q15. Which of the following word can be formed using the letters of the given word?
+
+‘MEASUREMENT’
+
+Ans: MANURE
+
+
+
+Q1. Find the time taken by a 330 m long train to cross a pole which is on the left side in the direction of the train if the train is traveling at 66 km/hr.
+
+Ans: 18 sec
+ 
+
+Q2. A train crosses an electric pole in 10 seconds with a speed of 60 m/s. Find the length of the train?
+
+Ans: 600 m
+
+
+Q3. A bus covers a distance of 150 km at a speed of 16.67 m/s. If the bus has to cover
+120 km in the same time, find the distance traveled by bus (in meter) per minute.
+
+Ans: 800 m
+
+
+Q4. Find the time in which a motorboat can cover 128 km against the stream when the rate stream is 4 km/hr and speed of the motor boat with the current is 20 km/hr.
+
+Ans: 10 whole 2/3 hours
+
+
+Q5. A bus travel first 45 minutes at 52 km/hr and rest 90 km in 1 whole 1/4 an hour. Find the average speed of the bus.
+
+Ans: 64.5 km/hr
+
+
+Q6. Find the length of the bridge on which a cyclist riding at 24 km/hr crosses it in 9 minutes.
+
+Ans: 3.6 km
+
+
+Q7. A boat goes 42 km downstream in 56 minutes. The speed of stream in 16 km/hr.
+Find the speed of the boat in still water.
+
+Ans: 29 km/hr.
+
+
+Q8. A man travels to his office at 72 km/hr and returns home at 54 km/hr. Find his average speed.
+
+Ans: 61.7 km/hr
+
+
+Q9. A man can row 20 km downstream in 4 hours and 9 km upstream in 3 hours. Find the speed of man in still water.
+
+Ans: 4 km/hr.
+ 
+
+
+Q10. A man can row upstream at 24 km/hr. And downstream at 30 km/hr. Find the speed of the current.
+
+Ans: 3 km/hr.
+
+
+Q11. A man can row at 30 km/hr in still water. If the rate of current is 5 km/hr, find the average speed of man if he rows a certain distance upstream and returns back to starting point.
+
+Ans: 29.2 km/hr.
+
+Q12. A bus takes 12 hours from Delhi to reach Chandigarh. The bus covers half of the journey in 1/3 of total time and rest of the journey at 25 km/hr. Find the distance between Delhi and Chandigarh.
+
+Ans: 400 km
+
+
+Q13. Speed of the motorboat against the stream is 12 km/hr. and speed with the stream is 18 km/hr. Find the speed of motorboat in still water.
+
+Ans: 15 km/hr.
+
+
+Q14. A swimmer can swim 9.6 km/hr in still water. He takes twice the time to swim upstream than to swim downstream. Find the speed of the stream.
+
+
+Ans: 3.2 km/hr.
+
+
+Q15. A man traveling with 45 of his usual speed reaches his distance 70 minutes late.
+Find the usual time he takes to reach his destination.
+
+Ans: 4 whole 2/3hours 
+Q1. Which of the following words is the synonym (the word similar in meaning) of the word ‘Patriotic’?
+
+Ans: Chauvinistic
+
+
+Q2. Which of the following words is the synonym (the word similar in meaning) of the word ‘Adamant’?
+
+Ans: Rigid
+
+
+Q3. Which of the following words is the synonym (the word similar in meaning) of the word ‘Optimization’?
+
+Ans: Boost
+
+
+Q4. Which of the following words is the synonym (the word similar in meaning) of the word ‘Decorous’?
+
+Ans: Civilized
+
+
+Q5. Which of the following words is the synonym (the word similar in meaning) of the word ‘Grudge’?
+
+Ans: Antipathy
+
+
+Q6. Which of the following words is the synonym (the word similar in meaning) of the word ‘Lethargy’?
+
+Ans: Dullness
+
+
+Q7. Which of the following words is the synonym (the word similar in meaning) of the word ‘Shimmering’?
+
+Ans: Glittering
+
+
+Q8. Which of the following words is the synonym (the word similar in meaning) of the word ‘Synonym’?
+
+Ans: Equivalent
+ 
+Q9. Which of the following words is the synonym (the word similar in meaning) of the word ‘Rebellious’?
+
+Ans: Turbulent
+
+
+Q10. Which of the following words is the synonym (the word similar in meaning) of the word ‘Agony’?
+
+Ans: Anguish
+
+
+Q11. Which of the following words is the synonym (the word similar in meaning) of the word ‘Virtual’?
+
+Ans: Implied
+
+Q12. Which of the following words is the synonym (the word similar in meaning) of the word ‘Cumulative’?
+
+Ans: Summative
+
+
+Q13. Which of the following words is the synonym (the word similar in meaning) of the word ‘Numerate’?
+
+Ans: Cipher
+
+
+Q14. Which of the following words is the synonym (the word similar in meaning) of the word ‘Nonchalant’?
+
+
+Ans: Casual
+
+
+Q15. Which of the following words is the synonym (the word similar in meaning) of the word ‘Trauma’?
+
+Ans: Ordeal
+ 
+Q1. In a certain code language, ‘tam kop lig’ is the code for ‘I like Pizza’, ‘tam sur dig’ is the code for ‘He like sandwich’ and ‘ma kop sur’ is the code for ‘Pizza and sandwich’. How can ‘He’ be coded in that code language?
+
+Ans: Dig
+
+
+Q2. In a certain code language, ‘NOTEBOOK’ is coded as 97. How will ‘REGISTER’ be written in that code?
+
+Ans: 101
+
+
+Q3. If, in a certain code language, ‘JUPITER’ is coded as ‘1379259’, then what is the code for ‘SATURN’?
+
+Ans: 112395
+
+
+Q4. In a certain code language, the word ‘TOUGH’ is coded as ‘UPUFG’. How will ‘DIFFICULT’ be written in that code?
+
+Ans: EJGGIBTKS
+
+
+Q5. In a certain code language, the word ‘WINDOW’ is coded as ‘IWDNWO’. How will ‘GOLDEN’ be written in that language?
+
+Ans: OGDLNE
+
+
+Q6. In a certain code language, ‘PAINTING’ is written as ‘45#9*#9@’ and ‘SKATING’ is written as ‘7JS*#9@’. How will ‘SINGING’ be written in that code language?
+
+Ans: 7#9@#9@
+ 
+
+Q7. In a certain code language, ‘tam kop lig’ is the code for ‘I like Pizza’, ‘tam sur dig’ is the code for ‘He like sandwich’ and ‘ma kop sur’ is the code for ‘Pizza and sandwich’. How can ‘sur’ be decoded in that code language?
+
+Ans: Sandwich
+
+
+Q8. In a certain code language, ‘Sam Pok ta la’ is the code used for ‘He likes Blue colour’, ‘na Pok ta sin’ is the code used for ‘She likes red colour’, ‘nag Pok’ is the code used for ‘Different colour’ and ‘gin do sam’ is the code used for ‘sky is blue’. What is the code used for ‘likes’ in that code language?
+
+Ans: Ta
+
+
+Q9. In a certain code language, ‘Sam Pok ta la’ is the code used for ‘He likes Blue colour’, ‘na Pok ta sin’ is the code used for ‘She likes red colour’, ‘nag Pok’ is the code used for ‘Different colour’ and ‘gin do sam’ is the code used for ‘sky is blue’. The code ‘nag’ is used for which of the following words?
+
+Ans: None of the above
+
+
+Q10. In a certain code language, word ‘BEARD’ is written as ‘GZFMI’. How will ‘MOUSTACHE’ be written in that code?
+
+Ans: RJZNYVHCJ
+
+
+Q11. In a certain code language, the word ‘BIOLOGY’ is written as ‘CHPKPFZ’. How will ‘MATHEMATICS’ be written in that code?
+
+Ans: NZUGFLBSJBT
+
+Q12. In a certain code language, ‘DENMARK’ is coded as ‘7253180’ and ‘PORTUGAL’ is coded as ‘948P651M’. How will ‘EUROPE’ be written in that code?
+
+Ans: 268492
+
+
+Q13. If, in a certain code language, ‘KMRFCP’ is the code for ‘MOTHER’, then, what is the code for ‘DAUGHTER’?
+
+Ans: BYSEFRCP
+ 
+
+Q14. In a certain code language ‘FIREWORK’ is written as ‘ERIFKROW’, then, how will ‘FESTIVAL’ be written in that code?
+
+
+Ans: TSEFLAVI
+
+
+Q15. The word ‘MAN’, in a certain code language, is coded as ‘NBO’. What should be the code for ‘WOMAN’?
+
+Ans: XPNBO
+
+Q1. √15×163‚5−89= x
+Find the value of x.
+
+Ans: 20
+
+
+Q2. √3√3√3.....∞ is equal to
+
+Ans: 3
+
+
+Q3. Find the value of
+
+(25^2−24^2)
+
+Ans: 49
+
+
+Q4. Find the value of (x) in the given expression 250% of x ÷ 250 – 444 = 200
+
+Ans: 64400
+
+
+Q5. (a + b) = 4 and a^2 + b^2 = 10
+ 
+
+Find the value of ‘ab’.
+
+Ans: 3
+
+
+Q6. Solve for (x)
+
+26^2 + 15^2 = x^2 + 732
+
+Ans: 13
+
+
+Q7. Simplify 0.2×0.2×0.2+0.8×0.8×0.8 / 0.2×0.2+0.8×0.8−0.16 Ans: 1
+
+Q8. Find the value of x.
+(√7744⎯√1521)= ^2
+
+Ans: 7
+
+
+Q9. Find the value of x.
+
+[(3^2)^6]^5=9
+
+Ans: 30
+
+
+Q10.	+1/ = 2
+
+Find	^4+1/  ^4
+
+Ans: 2
+
+
+Q11. Simplify (8+3)2−(8−3)2/24
+
+Ans: 4
+
+Q12. Solve for (x)
+
+3/11of 5/7of (x) = 63
+ 
+Ans: 323.4
+
+
+Q13. Simplify
+
+5+11+19+29+49
+
+Ans: 3
+
+
+Q14.  Simplify
+
+0.9×0.9+0.7×0.7+0.63 / 0.9×0.9×0.9−0.7×0.7×0.7
+
+
+Ans: 5
+
+
+Q15. Simplify
+
+196×196−169×169 / 5
+
+Ans: 1971
+
+
+Q1. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Releasing’?
+
+Ans: Restraint
+
+
+Q2. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Revolution’?
+
+Ans: Stagnation
+
+
+Q3. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Mockery’? 
+
+Ans: Solemnity
+
+
+Q4. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Concerned’?
+
+Ans: Composed
+
+
+Q5. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Hope’?
+
+Ans: Despair
+
+
+Q6. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Probability’?
+
+Ans: Certainty
+
+
+Q7. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Aesthetic’?
+
+Ans: Displeasing
+
+
+Q8. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Fluorescent’?
+
+Ans: Obscure
+
+
+Q9. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Humidity’?
+
+Ans: Aridity
+
+
+Q10. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Freed’?
+
+Ans: Hindered
+ 
+
+Q11. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Consent’?
+
+Ans: Veto
+
+Q12. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Benevolent’?
+
+Ans: Merciless
+
+
+Q13. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Imbecile’?
+
+Ans: Brainy
+
+
+Q14.Choose the correct antonym (word opposite in meaning) from the given choices of ‘Impede’?
+
+
+Ans: Assist
+
+
+Q15. Choose the correct antonym (word opposite in meaning) from the given choices of ‘Behest’?
+
+Ans: Reply
+
+
+Q1. Which of the following does not belong to that group?
+
+
+Volleyball
+
+
+Badminton
+ 
+
+Baseball
+
+
+Basketball
+
+Ans: Badminton
+
+
+
+
+
+Q2. Which of the following does not belong to that group?
+
+C,I,O,S,X
+
+Ans: S
+
+
+Q3. Which of the following does not belong to that group?
+
+
+Pint
+
+
+Gallon
+
+
+Yard
+
+
+Quart
+
+
+Ans: Yard
+
+
+Q4. Which of the following does not belong to that group?
+
+
+V10
+
+
+F14
+
+
+L18
+ 
+
+
+O15
+
+Ans: O15
+
+
+Q5. Which of the following does not belong to that group?
+
+
+Grapes
+
+
+Mango
+
+
+Carrot
+
+
+Strawberry
+
+Ans: Carrot
+
+
+Q6. Which of the following does not belong to that group?
+
+NV, CK, RZ, HP, IP
+
+Ans: IP
+
+
+Q7. Which of the following does not belong to that group?
+
+Ans: DTC Bus
+
+
+Q8. Which of the following does not belong to that group?
+
+
+Harmonium
+
+
+Celesta
+
+
+Piano
+ 
+
+
+Drums
+
+Ans: Drums
+
+
+Q9. Which of the following does not belong to that group?
+
+
+English
+
+
+Mathematics
+
+
+Hindi
+
+
+French
+
+Ans: Mathematics
+
+
+Q10. Which of the following does not belong to that group?
+
+Ans: I
+
+
+Q11. Which of the following does not belong to that group?
+
+
+Blush
+
+
+Rose
+
+
+Black
+
+
+Magenta
+
+Ans: Black
+
+Q12. Which of the following does not belong to that group?
+ 
+
+
+B7I
+
+
+S6Y
+
+
+M9R
+
+
+P4T
+
+Ans: M9R
+
+
+Q13. Which of the following does not belong to that group?
+
+Ans: JK
+
+
+Q14.Which of the following does not belong to that group?
+
+
+Sheep
+
+
+Lion
+
+
+Giraffe
+
+
+Elephant
+
+
+Ans: Lion
+
+
+Q15. Which of the following does not belong to that group?
+
+
+197
+
+
+181
+ 
+
+
+157
+
+
+177
+
+Ans: 177
+
+
+Q1. Which of the following will completely divide 32112?
+
+Ans: 3
+
+
+Q2. Find the unit digit of 11 × 72 × 83.
+
+Ans: 6
+
+
+Q3. Which of the following will be the last digit of 7^487?
+
+Ans: 3
+
+
+Q4. Find the unit digit of 9^82.
+
+Ans:  1
+
+
+Q5. Find the unit digit of 4^9.
+
+Ans: 4
+
+
+Q6. Which of the following will be the last digit of 8513?
+ 
+
+Ans: 8
+
+
+Q7. Which of the following will completely divide 13210120?
+
+Ans: 11
+
+
+Q8. Find the last digit of 2^87.
+
+Ans: 8
+
+
+Q9. What is the remainder if 2891 is divided by 4?
+
+Ans: 3
+
+
+Q10. What is the remainder when 68241 is divided by 8?
+
+Ans: 1
+
+
+Q11. Find the unit digit of 6^36.
+
+Ans:  6
+
+Q12. Which of the following will completely divide 37683?
+
+Ans: 9
+
+
+Q13. Which of the following will completely divide 32112?
+
+Ans:  3
+
+
+Q14. Find the last digit of 3^17.
+
+Ans: 3
+
+
+Q15. Find the last digit of 5^125.
+
+Ans: 5 
+
+Q1. He has a habit of walking in sleep.
+
+Ans: Somnambulist
+
+
+Q2. Shreya has a habit of speaking less.
+
+Ans: Reticent
+
+
+Q3. Neha dances for pleasure and not as a profession.
+
+Ans: Amateur
+
+
+Q4. Pakistan follows the custom of having many wives.
+
+Ans:  Polygamy
+
+
+Q5. My friend had a short stay at a place near Haiderpur village.
+
+Ans: Sojourn
+
+
+Q6. Rohan is the only one in his family who is not sure about God’s existence. Ans: Agnostic
+
+Q7. In countries like Afghanistan, the government is run by a dictator.
+
+Ans: Autocracy
+
+
+Q8. He finds pleasure in drinking and eating.
+ 
+
+Ans: Epicure
+
+
+Q9. Lakshey and Riya appointed Mahesh to solve a dispute between them. Ans: Arbitrator
+
+Q10. Mohit was unable to pay his debts due to many consecutive losses in his business.
+
+Ans: Insolvent
+
+
+Q11. She saw a family of young animals near the forest and got scared. Ans: Brood
+
+Q12. My friend can speak English, Spanish, German and many more languages. Ans: Polyglot
+
+Q13. Abhishek is interested in reading books only and nothing else.
+
+Ans:  Book worm
+
+
+Q14. The study of mankind should be considered as a subject in higher studies. Ans: Anthropology
+
+Q15. She was not able to express herself in front of her parents.
+
+Ans: Introvert
+ 
+
+Which of the following pair is analogue to the given pair?
+
+Q1. DI: PZ
+
+Ans: SX: AK
+
+
+Q2. Thin: Thick
+
+Ans: Bliss: Depression
+
+
+Q3. PR: TV
+
+Ans: WY: AC
+
+
+Q4. Red: Danger
+
+Ans:  Swastika: Fortune
+
+
+Q5. Charger: Charging
+
+Ans: Steering: Drive
+
+
+Q6. Man: Crowd
+
+Ans: Elephant: Parade
+
+
+Q7. Hard work: Success
+
+Ans: Bath: Freshness
+
+
+Q8. Temperature: Degree
+
+Ans: Power: Watt
+
+
+Q9. Z: A
+
+Ans: W: D
+ 
+
+
+Q10. Robot: Machine
+
+Ans: Sparrow: Bird
+
+
+Q11. 2: 16
+
+Ans:  1: 1
+
+Q12. Grapes: Sour
+
+Ans: Medicine: Bitter
+
+
+Q13. 15: 45
+
+Ans:  75: 225
+
+
+Q14. Buffalo: Calf
+
+Ans: Kangaroo: Joey
+
+
+Q15. Deer: Herbivore
+
+Ans: Lion: Carnivore
+
