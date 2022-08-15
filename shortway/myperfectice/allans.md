@@ -2822,3 +2822,64 @@ Ans: Show
 15.	Which of the following can replace the given underlined statement with a single word? True friends are example of pure happiness.
 
 Ans: Bliss
+
+1.	If, in a certain code language, ‘DWJZ’ is the code for ‘HAND’ then what is the code for ‘LEGS’?
+
+Ans: HACO
+
+2.	In a certain code language, 'RUSSIA' is coded as 75. How will 'INDIA' be written in that code?
+
+Ans: 98
+
+3.	In the following question, there are four alternatives, out of which three are related to one another in a certain way and hence form a group. Find the odd one out.
+
+Ans: Grapes
+
+4.	In the following question, there are four alternatives, out of which three are related to one another in a certain way and hence form a group. Find the odd one out.
+
+Ans: Drums
+
+5.	Direction: Which of the following alternatives best completes the analogue given below? Rubber : Tree : : Ivory : ?
+
+Ans: Elephant
+
+6.	If, in a certain code language, ‘HERO’ is coded as 10800 then what is the code for ‘ZERO’?
+
+Ans: 35100
+
+7.	Direction: Which of the following alternatives best completes the analogue given below? Jack : Jenny : : Tom : ?
+
+Ans: Queen
+
+8.	Direction: Which of the following alternatives best completes the analogue given below? Fish : 0 : : Birds : 2 : : Elephant : ?
+
+Ans: 4
+
+9.	Which of the following numbers/terms is not related to the rest of the given three numbers/terms?
+
+Ans: 316
+
+10.	In a certain code language, the word ‘SUBSTITUTE’ is coded as ‘TSCQUGUSUC’. How will ‘COMPLEMENT’ be written in that code?
+
+Ans: DMNNMCNCOR
+
+11.	In the following question there are four alternatives, out of which three are related to one another in a certain way and hence form a group. Find the odd one out.
+
+Ans: Salt
+
+12.	Direction: Which of the following alternatives best completes the analogue given below? 23 : 92 : : 25 : ?
+
+Ans: 100
+
+13.	Direction: Which of the following alternatives best completes the analogue given below? Kerala : Malayalam : : Meghalaya : ?
+
+Ans: Khasi
+
+14.	In the following question, there are four alternatives, out of which three are related to one another in a certain way and hence form a group. Find the odd one out.
+
+Ans: Iron
+
+15.	In a certain code language, the word ‘PHONE’ is written as ‘SERKH’. How will ‘SAMSUNG’ be written in that code?
+
+Ans: VXPPXKJ
+
