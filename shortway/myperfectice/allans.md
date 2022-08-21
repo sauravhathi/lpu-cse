@@ -2703,3 +2703,183 @@ Q15. Deer: Herbivore
 
 Ans: Lion: Carnivore
 
+1. If a & b = (𝑎2+2𝑏)(a2+2b)(b + a). Find (4 & 2) + (2 & 1).
+
+Ans: 45
+
+2.	Find the unit digit of 128 × 96 × 43 × 24.
+
+Ans: 6
+
+3.	Find the last digit of 981 – 416.
+
+Ans: 3
+
+4.	If a # b = (3a – 2b) + (ab). Find 3 # 5.
+
+Ans: 14
+
+5.	Which of the following will completely divide 20,683?
+
+Ans: 13
+
+6.	Find the last digit of 5124 + 6121.
+
+Ans: 1
+
+7.	A man travels half of the journey at 30 km/hr and the remaining half at 45 km/hr. If he travels for 5 hours to cover his entire journey find the total distance traveled by the man.
+
+Ans: 180 km
+
+8.	Find last digit of 233 × 66 × 75.
+
+Ans: 4
+
+9.	Simplify (72+42+56)−(72+42−56)/28
+
+Ans: 4
+
+10.	Rahul rides his bicycle for 10 km at a speed of 12 km/hr. He rested for 10 minutes and again travels 12 km at 10 km/hr. Find the average speed of Rahul.
+
+Ans: 10 km/hr
+
+11.	Find the approximate value 0.2+0.3+0.24/√+0.3√
+
+Ans: 1
+
+12.	A train reduces his speed by 1/3 of its normal speed due to which it took 1 hour extra to reach its destination. Find the time (in hours) taken by the train to reach its destination when traveling at its normal speed.
+
+Ans: 3 hours
+
+13.	A train running at a speed of 18 m/s crosses a pole in 12.5 seconds. Find the length of the train.
+
+Ans: 225 meter
+
+14.	If (343)y = 16807. Find the value of (y).
+
+Ans: 5/3
+
+15.	Which of the following will completely divide 14,874?	
+
+Ans: 6
+
+1.	Choose the correct synonym (a word similar in meaning) from the given choices of ‘Abstract’?
+
+Ans: Hypothetical
+
+2.	Choose the correct synonym (a word similar in meaning) from the given choices of ‘Ardor’?
+
+Ans: Passion
+
+3.	Choose the correct synonym (a word similar in meaning) from the given choices of ‘Ballot’?
+
+Ans: Franchise
+
+4.	Choose the correct synonym (a word similar in meaning) from the given choices of ‘Crusade’?
+
+Ans: Expedition
+
+5.	Which of the following can replace the given underlined statement with a single word? He is the one who is extremely greedy to get and keep riches.
+
+Ans: Avaricious
+
+6.	Choose the correct antonym (word opposite in meaning) from the given choices of ‘Homicide’?
+
+Ans: Birth
+
+7.	Choose the correct antonym (word opposite in meaning) from the given choices of ‘Gratis’?
+
+Ans: Expensive
+
+8.	Choose the correct antonym (word opposite in meaning) from the given choices of ‘Encounter’?
+
+Ans: Evasion
+
+9.	Which of the following can replace the given underlined statement with a single word? My friend does not believe in the existence of God.
+
+Ans: Atheist
+
+10.	Which of the following can replace the given underlined statement with a single word? She is the one who always opposes the other people.
+
+Ans: Antagonist
+
+11.	Choose the correct antonym (word opposite in meaning) from the given choices of ‘Hearsay’?
+
+Ans: Quiet
+
+12.	Choose the correct antonym (word opposite in meaning) from the given choices of ‘Enormous’?
+
+Ans: Insignificant
+
+13.	Which of the following can replace the given underlined statement with a single word? I saw a public notice offering goods at a very heavy discount.
+
+Ans: Advertisement
+
+14.	Choose the correct synonym (a word similar in meaning) from the given choices of ‘Convention’?
+
+Ans: Show
+
+15.	Which of the following can replace the given underlined statement with a single word? True friends are example of pure happiness.
+
+Ans: Bliss
+
+1.	If, in a certain code language, ‘DWJZ’ is the code for ‘HAND’ then what is the code for ‘LEGS’?
+
+Ans: HACO
+
+2.	In a certain code language, 'RUSSIA' is coded as 75. How will 'INDIA' be written in that code?
+
+Ans: 98
+
+3.	In the following question, there are four alternatives, out of which three are related to one another in a certain way and hence form a group. Find the odd one out.
+
+Ans: Grapes
+
+4.	In the following question, there are four alternatives, out of which three are related to one another in a certain way and hence form a group. Find the odd one out.
+
+Ans: Drums
+
+5.	Direction: Which of the following alternatives best completes the analogue given below? Rubber : Tree : : Ivory : ?
+
+Ans: Elephant
+
+6.	If, in a certain code language, ‘HERO’ is coded as 10800 then what is the code for ‘ZERO’?
+
+Ans: 35100
+
+7.	Direction: Which of the following alternatives best completes the analogue given below? Jack : Jenny : : Tom : ?
+
+Ans: Queen
+
+8.	Direction: Which of the following alternatives best completes the analogue given below? Fish : 0 : : Birds : 2 : : Elephant : ?
+
+Ans: 4
+
+9.	Which of the following numbers/terms is not related to the rest of the given three numbers/terms?
+
+Ans: 316
+
+10.	In a certain code language, the word ‘SUBSTITUTE’ is coded as ‘TSCQUGUSUC’. How will ‘COMPLEMENT’ be written in that code?
+
+Ans: DMNNMCNCOR
+
+11.	In the following question there are four alternatives, out of which three are related to one another in a certain way and hence form a group. Find the odd one out.
+
+Ans: Salt
+
+12.	Direction: Which of the following alternatives best completes the analogue given below? 23 : 92 : : 25 : ?
+
+Ans: 100
+
+13.	Direction: Which of the following alternatives best completes the analogue given below? Kerala : Malayalam : : Meghalaya : ?
+
+Ans: Khasi
+
+14.	In the following question, there are four alternatives, out of which three are related to one another in a certain way and hence form a group. Find the odd one out.
+
+Ans: Iron
+
+15.	In a certain code language, the word ‘PHONE’ is written as ‘SERKH’. How will ‘SAMSUNG’ be written in that code?
+
+Ans: VXPPXKJ
+
