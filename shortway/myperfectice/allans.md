@@ -2956,3 +2956,183 @@ S2: This is gold, not a silver.
 S3: This is gold, not silver.
 
 Ans: Only S3
+
+1. 'R' is the wife of 'T'.'S' is the brother-in-law of 'T'.'P' is the father of 'S'. How is 'P' related to 'T'?
+
+Ans: Father-in-law
+
+2. Saniya is the only granddaughter of Leelawati. Reena is the sister of Mohan. Mohan is the son of Leelawati. How is Reena related to Saniya?
+
+Ans: Aunt
+
+3. Which of the following represents 'B' is the aunt of 'D'?
+
+Ans: B – C × D
+
+4. How is my wife’s brother’s father related to me?
+
+Ans: Father-in-law
+
+5. Bablu and Ranjeet are twins. Bablu’s sister is Priya. Priya’s husband is Rajeev. Ranjeet’s mother is Kushum. How is Kushum related to Rajeev?
+
+Ans: Mother-in-law
+
+6. If A ÷ B × C, then which of the following statement is true?
+
+Ans: 'A' is the uncle of 'C'
+
+7. In the expression A × B – C, how is 'A' related to 'C'?
+
+Ans: Father
+
+8. 'A' and 'B' is a couple. 'B' is the sister of 'C'.'D' is the father of 'C'. How is 'D' related to 'A'?
+
+Ans: Father-in-law
+
+9. Pointing towards a man, Pawan said, “his grandfather’s only son’s sister is my aunt". How is Pawan related to that man?
+
+Ans: Cousin
+
+10. Pointing to a girl Sangita said, “She is the daughter of the only sister of my father“.How is Sangita related to that girl?
+
+Ans: Cousin
+
+11. Moni is the wife of Sankar. Sankar is the brother-in-law of Mukesh Sharma. Rajeev is the son of Mukesh Sharma. How is Moni related to Rajeev?
+
+Ans: Maternal Aunt
+
+12. 'C' is the father of 'B'.'C' has only two children. 'D' is the sister of 'C,' and 'A' is the sister of 'B'. How is 'D' related to 'A'?
+
+Ans: Aunt
+
+13. What does A × C ÷ B mean?
+
+Ans: 'A' is the father of 'B.'
+
+14. How is my wife’s mother’s brother related to me?
+
+Ans: Uncle in Law
+
+15. Ganesh said, pointing towards Mahendra, “His father is my father’s only son”. How is Mahendra related to Ganesh?
+
+Ans: Son
+
+1. Who is standing at the extreme left end of the arrangement?
+
+Ans: C
+
+2. Who lives to the immediate right of E’s house?
+
+Ans: A
+
+3. Who is standing exactly in the middle of the row?
+
+Ans: D
+
+4. Who is the tallest among the four friends?
+
+Ans: W
+
+5. Who lives in the house which is exactly in the middle of the arrangement?
+
+Ans: E
+
+6. Who is sitting second to the left of 'D'?
+
+Ans: C
+
+7. How many people are there between 'C' and 'M'?
+
+Ans: 0
+
+8. Whose class is on the third floor?
+
+Ans: D's class
+
+9. Who is sitting exactly in front of 'B'?
+
+Ans: A
+
+10. C’s class is on which floor?
+
+Ans: Ground
+
+11. Who among the following likes grapes?
+
+Ans: P
+
+12. Who is sitting second to the left of 'C'?
+
+Ans: B
+
+13. Who is sitting at the extreme right end of the arrangement?
+
+Ans: A
+
+14. Which pair is sitting adjacent to 'E'?
+
+Ans: B and C
+
+15. How many boys are standing between 'C' and 'E'?
+
+Ans: 3
+
+1. How is 'Q' related to 'T'?
+
+Ans: Sister-in-law
+
+2. How many people are sitting between 'R' and 'S'?
+
+Ans: two
+
+3. Who is sitting exactly in the middle of 'B' and 'E'?
+
+Ans: A
+
+4. How is 'C' related to 'D'?
+
+Ans: Mother
+
+5. Who is sitting exactly in the middle of the arrangement?
+
+Ans: P
+
+6. How is 'Q' related to 'R'?
+
+Ans: Niece
+
+7. Who is sitting at the extreme left of the arrangement?
+
+Ans: Q
+
+8. How is 'B' related to 'C'?
+
+Ans: Cannot be determined
+
+9. How is 'R' related to 'S'?
+
+Ans: Cannot be determined
+
+10. Who is sitting second to the left of 'B'?
+
+Ans: A
+
+11. Who is sitting at the bottom most stair?
+
+Ans: Z
+
+12. How is 'K' related to 'P'?
+
+Ans: Sister-in-law
+
+13. Who is sitting to the immediate right of 'E'?
+
+Ans: C
+
+14. Who is sitting immediately below 'Y'?
+
+Ans: W
+
+15. How is 'D' related to 'F'?
+
+Ans: Aunt
