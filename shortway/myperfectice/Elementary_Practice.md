@@ -302,3 +302,63 @@ Ans: 0
 Ans: Somya
 
 ## [Elementary Practice] Quant - Simple & Compound Interest v3
+
+1. Find compound interest on a sum of ₹ 8000 for 9 months at 20% per annum, if the interest is being compounded quarterly.
+
+Ans: ₹ 1261
+
+2. Difference between the compound interest (compounded annually) and simple interest on a sum of ₹ 4900 at a certain rate for 2 years is ₹ 100. Find the rate.
+
+Ans: ![image](https://user-images.githubusercontent.com/61316762/186188078-f5b5d3ec-8e74-4f90-a5be-49947cb91903.png)
+
+3. A sum in invested at 20% compound interest, compounded annually. In two years it would have fetched ₹ 60.25 more if the interest was compounded half yearly. Find the sum.
+
+Ans: ₹ 2000
+
+4. A sum is invested on simple interest at a certain rate for 3 years. If it had been invested at 4% higher rate, it would have fetched ₹ 36 more. Find the sum.
+
+Ans: ₹ 300
+
+5. Rohit borrows ₹ 400 at the rate of 5% per annum simple interest and Abhishek borrows ₹ X at the rate of 4% per annum simple interest. After 15 years their amount of debt. becomes equal. Find X.
+
+Ans: ₹ 437.50
+
+6. Aman lent ₹ 2000 each to Amit and Rakesh. After 2 years the difference of simple interests received from both sources is found to be ₹ 32.8. The difference between their rates of interest will be:
+
+Ans: 0.82%
+
+7. The simple interest on a sum of money for 2 years at 8% is ₹ 800. The compound interest for the same sum at the same rate for 3 years will be approximately:
+
+Ans: ₹ 1298
+
+8. Paul invests money in three different schemes for 2 years, 4 years and 6 years at 8%, 10% and 12% simple interest respectively. After completion of each scheme he gets same interest. Find the ratio of his investments.
+
+Ans: 45:18:10
+
+9. A scheme offers compound interest at the rate of 5% pa, compounded half-yearly. If a man invests ₹ 14000 each on 1st January and 1st July, what will be the total interest earned by him at the end of the year?
+
+Ans: ₹ 1058.75
+
+10. What sum of money, considering simple interest, will amount to ₹ 896 in 3 years, and ₹ 960 in 5 years?
+
+Ans: ₹ 800
+
+11. If the compound interest on a certain sum is ₹ 520 for 2 years at 16 2/3% per annum, what will be the simple interest on that sum in 3 years at the same rate of interest?
+
+Ans: ₹ 720
+
+12. If simple interest for 5 years is equal to 30% of the principal, it will equal to the principal after:-
+
+Ans: 16 years 8 months
+
+13. A sum of money becomes 5/4 of it in 2 years at a certain rate of simple interest. Find the rate per annum.
+
+Ans: 12.5%
+
+14. A sum of ₹ 12800 gives an interest of ₹ 3400 in ‘t’ years at the rate of interest 12 1/2% compounded annually. Find t.
+
+Ans: 2 years
+
+15. Equal sum of money are lent to A and B at 2.7% per annum simple interest for 2 and 4 years respectively. If the difference in interest paid by them is ₹ 135, find the sum that was lent to each.
+
+Ans: ₹ 2500
