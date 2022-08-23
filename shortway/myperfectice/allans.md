@@ -2883,3 +2883,76 @@ Ans: Iron
 
 Ans: VXPPXKJ
 
+1. I saw two ______ in the zoo.
+
+Ans: deer
+
+2. Which of the following sentence(s) is/are grammatically correct?
+
+S1: Life is beautiful.
+
+S2: The life is beautiful.
+
+Ans: S1
+
+3. _____ teacher must have patience.
+
+Ans: A
+
+4. On a full moon day, the moon shines with all ______ might.
+
+Ans: Its
+
+5. The _____ of Kashmir is very beautiful.
+
+Ans: Scenery
+
+6. Which of the following sentence(s) is/are grammatically correct?
+
+S1: They gave me a good advice.
+
+S2: They gave me a piece of good advice.
+
+Ans: S2
+
+7. This Diwali, we will not burst _______.
+
+Ans: crackers
+
+8. She is going out with ____ French guy.
+
+Ans: Both ‘A’ and ‘The’
+
+9. The _______ has submitted its report.
+
+Ans: Committee
+
+10. Rahul is suffering from ______ headache.
+
+Ans: A
+
+11. ____ dog in the backyard is very cute.
+
+Ans: The
+
+12. ____ girl was crying.
+
+Ans: Both ‘A’ and ‘The’
+
+13. The ________ not reliable.
+
+Ans: News is
+
+14. He is ___ smartest kid I have seen.
+
+Ans: The
+
+15. Which of the following sentence(s) is/are grammatically correct?
+
+S1: This is a gold, not a silver.
+
+S2: This is gold, not a silver.
+
+S3: This is gold, not silver.
+
+Ans: Only S3
