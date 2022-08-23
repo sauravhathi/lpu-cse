@@ -1,3 +1,5 @@
+## [Elementary Practice] Quant - Percentage v3
+
 1. The population of a town is 10,000. If the population of males increases by 16.66% and that of the female by 37.5%, the population becomes 12,500. Find the number of females.
 
 Ans: 4000
@@ -57,6 +59,8 @@ Ans: 50%
 15. Ajinkya Rahane scored 120 runs which included 10 boundaries and 0 sixes. What percent of his total score did he make by running between the wickets?
 
 Ans: 66.66%
+
+## [Elementary Practice] Verbal - Noun v3
 
 1. Which of the following sentences is grammatically correct?
 
@@ -146,6 +150,8 @@ S2: I asked John to bring out all the luggages.
 
 Ans: S1
 
+## [Elementary Practice] Verbal - Articles v3
+
 1. The paper should be ____ little thicker.
 
 Ans: A
@@ -232,3 +238,67 @@ S2: This Sony BRAVIA KLV-22BX350 TV features a 22 Inch
 screen and an LCD TV display for your viewing pleasure.
 
 Ans: S2
+
+## [Elementary Practice] Reasoning - Number, Ranking & Time Sequence Test v3
+
+1. Who is the youngest among them?
+
+Ans: Shreya
+
+2. 'A' is lighter than which of the following two balls?
+
+Ans: B ans D
+
+3. If all the five friends are standing in ascending order, then who is standing in the exact middle of the arrangement?
+
+Ans: D
+
+4. Neha’s rank is 17th from the top in a class of 35 students. What is her rank from the bottom?
+
+Ans: 19
+
+5. Which of the following number of runs were scored by Shubham?
+
+Ans: 104
+
+6. Who scored the highest number of runs?
+
+Ans: Shubham
+
+7. Which of the following is the lightest ball?
+
+Ans: C
+
+8. In a class, Riya’s rank is 27th from the top and 25th from the bottom. What is the total number of students in the class?
+
+Ans: 51
+
+9. Which of the following marks is scored by the least scorer?
+
+Ans: 82
+
+10. Who among the following has scored second highest marks?
+
+Ans: X
+
+11. Which of the following is the heaviest ball?
+
+Ans: B
+
+12. Who among all of the five friends is the tallest?
+
+Ans: B
+
+13. Which of the following ball is heavier than exactly three balls?
+
+Ans: D
+
+14. In a queue of 40 people, Rohan is 19th from left end and Shreya is 23rd from right end. How many people are there between Rohan and Shreya?
+
+Ans: 0
+
+15. Who is the oldest among them?
+
+Ans: Somya
+
+## [Elementary Practice] Quant - Simple & Compound Interest v3
