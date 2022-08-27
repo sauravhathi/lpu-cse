@@ -516,3 +516,65 @@ Ans: 2
 15. If all the alphabets are deleted from the given arrangement, then, which of the following elements will come at the sixth place from the right end in the new arrangement?
 
 Ans: %
+
+## [Elementary Practice] Quant - Ratio & Proportion v3
+
+1. The ratio of total amount distributed in all the males and females as salary is 4 : 5, while the ratio of salary of each male and each female is 4 : 7. Find the ratio of no. of males & females.
+
+Ans: 7:5
+
+2. Find the number that can be added to each of the numbers 5, 7, 12, 15 to make them in proportion.
+
+Ans: 9
+
+3. 45 men together can build a wall 80m long in 3 days. Find the number of men required to build the same wall at the same rate in 1 day.
+
+Ans: 135
+
+4. A is inversely proportional to the square of B. If A = 9, then B =3⎯⎯√=3, find B when A = 3.
+
+Ans: 3
+
+5. A tiger chases a dear. The Tiger takes 3 leaps for every 5 leaps of deer. Distance covered by deer in 5 leaps is equal to the distance covered by the tiger in 2 leaps. Find the ratio of their speed.
+
+Ans: 3:2
+
+6. In a cricket match, total runs scored by Kohli, Dhawan and Rahane is 261. The ratio of the runs scored by Kohli to that of Rahane is 6 : 5, and the ratio of runs scored by Rahane to that of Dhawan is 10 : 7. Find the number of runs scored by Kohli.
+
+Ans: 108
+
+7. In two types of stainless steel the ratio of chromium and steel are 1 : 3 and 3 : 5 respectively. In what proportion should the two types be mixed so that the ratio of chromium to steel in mixed type becomes 1 : 2?
+
+Ans: 1:2
+
+8. The price of diamond is directly proportional to the square of its weight. A person broke down the diamond in the ratio of 2 : 3 : 4, and after selling the broken parts he suffers a loss of Rs 5200. Find the initial price of the diamond.
+
+Ans: Rs 8100
+
+9. The ratio of income of Atul and Amul is 4 : 5 and the ratio of their expenditure is 2 : 3. If they save Rs 5,000 & Rs 4,000 respectively, what is the income of Amul?
+
+Ans: ₹ 17500
+
+10. A profit of Rs 810 is divided between Amit and Rahul in the ratio 1/4:1/5. Find the difference of their profit.
+
+Ans: 90
+
+11. If a : b : c = 1 : 2 : 3 and 3a + 4b – c = 24, find the value of b.
+
+Ans: 6
+
+12. The ratio of the 3 AC and sleeper class fares between Bhubaneswar and Sambalpur is 5 : 3, and that of the number of passengers travelling by 3 AC and sleeper classes is 1 : 5. If on a day Rs 70,000 is collected as total fare, find the amount collected from the 3 AC class passengers.
+
+Ans: Rs 17,500
+
+13. The sides of a rectangle are in ratio 7 : 6. If its area is 378 cm2, find the ratio of its perimeter to its area.
+
+Ans: 13:63
+
+14. If 1/3 of A = 60% of B =2/3 of C, then A : B : C is equal to:
+
+Ans: 18:10:9
+
+15: The ratio of income of A & B one year ago was 2 : 3. The ratio of their last year income to current year income are 3 : 5 & 4 : 5. If their total current year income is Rs 17,000. Find the current year income of A.
+
+Ans: Rs 8,000
