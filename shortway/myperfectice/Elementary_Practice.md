@@ -448,3 +448,71 @@ S1: The flock of sheep spends most of its time in the pasture.
 S2: The flock of sheeps spends most of its time in the pasture.
 
 Ans: S1
+
+## [Elementary Practice] Reasoning - Alpha-Numeric-Symbol v3
+
+1. Find the missing term in the series given below.
+
+Sp, @9, q7, ?
+
+Ans: U#
+
+2. How many number/s is/are there which is/are immediately followed by an alphabet?
+
+Ans: 1
+
+3. The letters of the word ‘INTERNSHIP’ are arranged in ascending order, alphabetically. In the new arrangement, how many letter/s is/are there which remain same at its/their position?
+
+Ans: 1
+
+4. In the above arrangement how many consonant/s are there each
+of which is/are immediately followed by a symbol?
+
+Ans: 0
+
+5. Which of the following element comes at the 9th place to the left of 15th element from the left end?
+
+Ans: 9
+
+6. How many unique pairs of letters are there in the given series which has as many elements between them in the series (in both forward and backward direction) as they have between them in English alphabet?
+
+Ans: 2
+
+7. How many symbol/s is/are there which is/are immediately preceded by a number?
+
+Ans: 3
+
+8. In the above arrangement, how many prime number/s is/are there each of which is/are followed by a symbol?
+
+Ans: 2
+
+9. If the first alphabet in each of the given words is replaced by the letter appearing next to it in the English alphabet, how may words thus formed have more than one vowel?
+
+Ans: One
+
+10. If we reverse the exact two elements from the middle of the series, then which of the following element will come at the 9th place from the right end?
+
+Ans: w
+
+11. How many unique pairs of numbers are there in the given
+series which has as many numbers between them in the series (in both forward
+and backward directions) as they have between them while counting?
+
+Ans: 1
+
+12. In the above arrangement, how many vowels are there each of
+which is immediately preceded by a number?
+
+Ans: 1
+
+13. How many alphabet/s is/are there which is/are immediately preceded by a symbol?
+
+Ans: 3
+
+14. The letters of the word ‘BUILDING’ are arranged in ascending order, alphabetically. In the new arrangement, how many letter/s is/are there which remain same at its/their position?
+
+Ans: 2
+
+15. If all the alphabets are deleted from the given arrangement, then, which of the following elements will come at the sixth place from the right end in the new arrangement?
+
+Ans: %
