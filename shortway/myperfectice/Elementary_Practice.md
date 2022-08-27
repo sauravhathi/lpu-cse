@@ -362,3 +362,89 @@ Ans: 2 years
 15. Equal sum of money are lent to A and B at 2.7% per annum simple interest for 2 and 4 years respectively. If the difference in interest paid by them is ₹ 135, find the sum that was lent to each.
 
 Ans: ₹ 2500
+
+## [Elementary Practice] Verbal - Verbs v3
+
+1. I can tell from my personal experience that people of Wakanda _____ generous.
+
+Ans: Are
+
+2. Where are my pants?
+
+Ans: No improvement required.
+
+3. Which of the following is the best way of writing the given sentences?
+
+S1: Ethics demands honesty.
+
+S2: Ethics demand honesty.
+
+Ans: S1
+
+4. John is very happy with the way the police _____ handled the case.
+
+Ans: Have
+
+5. Which of the following is the best way of writing the given sentences?
+
+S1: The whole family was involved in the preparation for tournament.
+
+S2: The government is not able to do a good job in our country.
+
+Ans: Both S1 and S2
+
+6. Alms are given to the beggars.
+
+Ans: No improvement required.
+
+7. Which of the following is the best way of writing the given sentences?
+
+S1: Every single student is present in the class.
+
+S2: Every single student are present in the class.
+
+Ans: S1
+
+8. All his asset were seized.
+
+Ans: assets were seized
+
+9. Which of the following is the best way of writing the given sentences?
+
+S1: The Indian cricket team are divided in groups after the defeat in Champions trophy.
+
+S2: The Indian cricket team is divided in groups after the defeat in Champions trophy.
+
+Ans: S1
+
+10. Economics are an interesting subject.
+
+Ans: is an interesting
+
+11. All members of the Zumba dance class _____ practicing at the same time. 
+
+Ans: Are
+
+12. Not everyone in the class ____ thinking in the same way.
+
+Ans: Is
+
+13. Which of the following is the best way of writing the given sentences?
+
+S1: Every hen knows her place in the barn.
+
+S2: Every hen know her place in the barn.
+
+Ans: S1
+
+14. Every morning the Indian cricket team _______ on the circular track before the practice match.
+
+Ans: Runs
+
+15. Which of the following is the best way of writing the given sentences?
+
+S1: The flock of sheep spends most of its time in the pasture.
+
+S2: The flock of sheeps spends most of its time in the pasture.
+
+Ans: S1
