@@ -5,6 +5,7 @@
 ![image](https://user-images.githubusercontent.com/61316762/170181414-91c80c68-0154-48ec-8fb5-b7d7de42d7a7.png)
 
 ## Subject
+- [shortway](https://github.com/sauravhathi/lpu-cse/tree/master/shortway)***
 - [CSE101](https://github.com/sauravhathi/lpu-cse/tree/master/cse101)
 - [CSE202](https://github.com/sauravhathi/lpu-cse/tree/master/cse202)
 - [CSE211](https://github.com/sauravhathi/lpu-cse/tree/master/cse211)
