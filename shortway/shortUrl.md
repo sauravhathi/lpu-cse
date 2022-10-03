@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/61316762/186152375-9ef8dc1d-828f-4279-9cf4-3fa07bd7c38e.png)
+![image](https://user-images.githubusercontent.com/61316762/193572665-ca4324e9-0cb2-4634-8fcc-9ab772a09ec5.png)
 
 [Absolute Enable Right Click & Copy](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika)
 
