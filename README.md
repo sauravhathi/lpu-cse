@@ -1,4 +1,10 @@
 # lpu-cse
+
+## Study Materials, Projects, Roadmap, and more.
+
+#### This is a collection of study materials, projects, and roadmaps for Computer Science Engineering students at Lovely Professional University. We are a community of students who are passionate about learning and teaching. We are here to help you learn and grow.
+
+## https://sauravhathi.github.io/lpu-cse/
  
 **<p align="center">Lovely Professional University End Term Exam Question Papers with Answers, Interview QA, Code Solutions</p>**
 
