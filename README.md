@@ -31,3 +31,30 @@
 - [MATH401](https://github.com/sauravhathi/lpu-cse/tree/master/math401)
 - [MEC103](https://github.com/sauravhathi/lpu-cse/tree/master/mec103)
 - [PEL](https://github.com/sauravhathi/lpu-cse/blob/master/pel%20mcq.docx)
+
+## Contributing
+
+We welcome contributions of all kinds from anyone, be it a student, a teacher, or a developer.
+
+### How to contribute
+
+- Fork this repository
+- Clone the forked repository
+- Create a new branch
+- Make changes
+- Commit and push
+- Create a pull request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sauravhathi/lpu-cse/blob/master/LICENSE) file for details
+
+## Contact
+
+- [Saurav Hathi](https://github.com/sauravhathi)
+
+## Acknowledgments
+
+- [Lovely Professional University](https://www.lpu.in/)
+
+## Contributors
