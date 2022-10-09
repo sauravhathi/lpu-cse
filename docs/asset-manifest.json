@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lpu-cse/static/css/main.c20af904.css",
+    "main.js": "/lpu-cse/static/js/main.9f3bf3ef.js",
+    "static/js/787.147a0aec.chunk.js": "/lpu-cse/static/js/787.147a0aec.chunk.js",
+    "index.html": "/lpu-cse/index.html",
+    "main.c20af904.css.map": "/lpu-cse/static/css/main.c20af904.css.map",
+    "main.9f3bf3ef.js.map": "/lpu-cse/static/js/main.9f3bf3ef.js.map",
+    "787.147a0aec.chunk.js.map": "/lpu-cse/static/js/787.147a0aec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c20af904.css",
+    "static/js/main.9f3bf3ef.js"
+  ]
+}
