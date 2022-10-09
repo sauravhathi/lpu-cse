@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lpu-cse/static/css/main.9c069547.css",
-    "main.js": "/lpu-cse/static/js/main.8cf3eb83.js",
+    "main.css": "/lpu-cse/static/css/main.10320cba.css",
+    "main.js": "/lpu-cse/static/js/main.524b0fe9.js",
     "static/js/787.147a0aec.chunk.js": "/lpu-cse/static/js/787.147a0aec.chunk.js",
     "index.html": "/lpu-cse/index.html",
-    "main.9c069547.css.map": "/lpu-cse/static/css/main.9c069547.css.map",
-    "main.8cf3eb83.js.map": "/lpu-cse/static/js/main.8cf3eb83.js.map",
+    "main.10320cba.css.map": "/lpu-cse/static/css/main.10320cba.css.map",
+    "main.524b0fe9.js.map": "/lpu-cse/static/js/main.524b0fe9.js.map",
     "787.147a0aec.chunk.js.map": "/lpu-cse/static/js/787.147a0aec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c069547.css",
-    "static/js/main.8cf3eb83.js"
+    "static/css/main.10320cba.css",
+    "static/js/main.524b0fe9.js"
   ]
 }
