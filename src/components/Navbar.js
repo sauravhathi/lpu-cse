@@ -37,7 +37,7 @@ const Navbar = () => {
 
     return (
       // nav ->  bottom border shadow
-      <nav class={`flex items-center justify-between flex-wrap bg-white pr-4 pl-4 pt-1 pb-1 lg:pl-20 lg:pr-20 sticky top-0 ${showMenu ? "text-left": "text-center"} border-b border-gray-200 shadow-sm`}>
+      <nav class={`flex items-center justify-between z-50 flex-wrap bg-white pr-4 pl-4 pt-1 pb-1 lg:pl-20 lg:pr-20 sticky top-0 ${showMenu ? "text-left": "text-center"} border-b border-gray-200 shadow-sm`}>
         <div class="flex items-center flex-shrink-0 text-slate-800 mr-6">
           <Link to="/">
           <img

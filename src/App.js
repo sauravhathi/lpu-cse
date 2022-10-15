@@ -9,12 +9,13 @@ import StudyMaterials from './components/StudyMaterials';
 import Projects from './components/Projects';
 import Roadmaps from './components/Roadmaps';
 import Footer from './components/Footer';
+import Post from './components/Post';
 
 function App() {
 
 return (
   <>
-    <HashRouter>
+    <HashRouter basename='/lpu-cse'>
       <Navbar />
       <div className="mb-20">
       <Routes>
@@ -25,6 +26,7 @@ return (
         <Route path="/study-materials" element={<StudyMaterials />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/roadmaps" element={<Roadmaps />} />
+        <Route path="/post" element={<Post />} />
         <Route path="*" element={
           <>
             <h1 className="text-2xl font-bold">404 Page Not Found</h1>

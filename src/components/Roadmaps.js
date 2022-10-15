@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import More from "./More";
 
 const Roadmaps = () => {
 
@@ -72,9 +73,9 @@ const Roadmaps = () => {
                                         <span className="text-slate-800">{" "} {currentDate.toDateString()}</span>
                                     </p>
                                     <p className="text-sm text-slate-500">Created By: <span className="text-slate-800">
-                                        Saura Hathi
+                                        Saurav Hathi
                                     </span></p>
-                                    <p className="text-sm text-slate-500">Contributors: <span className="text-slate-800">Saura Hathi</span></p>
+                                    <p className="text-sm text-slate-500">Contributors: <span className="text-slate-800">Saurav Hathi</span></p>
                                 </div>
                             </div>
                             <div className="flex items-center">
@@ -88,10 +89,7 @@ const Roadmaps = () => {
                     </div>
                 ))}
             </div>
-            <div className="text-right mt-4">
-                <button className="bg-zinc-800 text-white font-semibold py-2 px-8 rounded-md
-             hover:bg-pink-600 hover:text-white">More</button>
-                </div>
+            <More link="" />
         </div>
     );
 };

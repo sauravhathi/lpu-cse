@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import More from "./More";
 
 const StudyMaterials = () => {
 
@@ -343,8 +344,8 @@ const StudyMaterials = () => {
                         <ul className="mt-4">
                             {item.subSubjects.map((subItem, subIndex) => (
                                 <li key={subIndex} className="text-slate-800 list-decimal list-inside">
-                                    <Link href={subItem.link}>
-                                        <a className="hover:text-pink-500">{subItem.title}</a>
+                                    <Link href={subItem.link} className="hover:text-pink-500">
+                                        {subItem.title}
                                     </Link>
                                 </li>
                             ))}
@@ -352,12 +353,7 @@ const StudyMaterials = () => {
                     </div>
                 ))}
             </div>
-            <div className="text-right ">
-            <Link href="/study-materials" className="bg-zinc-800 text-white font-semibold py-2 px-8 rounded-md
-            hover:bg-pink-600 hover:text-white">
-                More
-            </Link>
-            </div>
+            <More link="" />
         </div>
     );
 };

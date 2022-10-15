@@ -1,7 +1,4 @@
 import BackBtn from "./BackBtn";
-import React, {useState} from 'react';
-import {Link} from 'react-router-dom';
-// IoLogoGithub
 import {IoLogoGithub, IoLogoLinkedin} from 'react-icons/io';
 const About = () => {
 
@@ -73,7 +70,9 @@ const About = () => {
                     </div>
                 ))}
             </div>
-            <BackBtn />
+                        {
+                window.location.pathname === "/lpu-cse" ? "" : <BackBtn />
+            }
         </div>
     );
 }

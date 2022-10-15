@@ -1,4 +1,4 @@
-import {Link} from 'react-router-dom';
+
 const Contact = () => {
     return (
         <div className="flex flex-col justify-center pr-4 pl-4 lg:pl-20 lg:pr-20 mt-5 mb-5">

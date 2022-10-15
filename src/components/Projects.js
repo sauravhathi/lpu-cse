@@ -1,8 +1,9 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
 import { IoLogoJavascript, IoLogoPython } from "react-icons/io";
 import { SiJava } from "react-icons/si";
 import { GrCode } from "react-icons/gr";
+import More from "./More";
+import BackBtn from "./BackBtn";
 
 const Projects = () => {
 
@@ -180,7 +181,7 @@ const Projects = () => {
                                         <li className="mb-2 list-decimal
                                         ml-4
                                         ">
-                                            <a href={project.link} className="hover:text-blue-700">{project.title}</a>
+                                            <a href={project.link} className="hover:text-pink-500">{project.title}</a>
                                         </li>
                                     );
                                 })}
@@ -189,10 +190,10 @@ const Projects = () => {
                     );
                 })}
             </div>
-            <div className="text-right mt-4">
-                <button className="bg-zinc-800 text-white font-semibold py-2 px-8 rounded-md
-             hover:bg-pink-600 hover:text-white">More</button>
-            </div>
+            <More link="" />
+            {
+                window.location.pathname === "/lpu-cse" ? "" : <BackBtn />
+            }
         </div>
     );
 };
