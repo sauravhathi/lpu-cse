@@ -10,8 +10,7 @@ const Post = () => {
     const [isDark, setIsDark] = useState(true)
 
     useEffect(() => {
-        // C:\Users\saura\Documents\Project\lpu-cse\posts\p1.md
-        import(`../posts/p1.md`)
+        import(`./../posts/p1.md`)
         .then((res) => {
             fetch(res.default).then((res) => res.text()).then((text) => {
                 setPostContent(text);
