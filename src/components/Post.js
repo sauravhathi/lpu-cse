@@ -25,7 +25,7 @@ const Post = () => {
             <article>
                 <main>
                     <Markdown>
-                        # Hello, world!
+                        {postContent}
                     </Markdown>
                 </main>
             </article>
