@@ -13,23 +13,23 @@
 </a>
 
 ## Subject
-- [shortway](https://github.com/sauravhathi/lpu-cse/tree/master/shortway)***
-- [CSE101](https://github.com/sauravhathi/lpu-cse/tree/master/cse101)
-- [CSE202](https://github.com/sauravhathi/lpu-cse/tree/master/cse202)
-- [CSE211](https://github.com/sauravhathi/lpu-cse/tree/master/cse211)
-- [CSE316](https://github.com/sauravhathi/lpu-cse/tree/master/cse316)
-- [CSE325](https://github.com/sauravhathi/lpu-cse/tree/master/cse325)
-- [CSE205](https://github.com/sauravhathi/lpu-cse/tree/master/cse205)
-- [ECE131](https://github.com/sauravhathi/lpu-cse/tree/master/ece131)
-- [ECE13](https://github.com/sauravhathi/lpu-cse/tree/master/ece213)
-- [ECE216](https://github.com/sauravhathi/lpu-cse/tree/master/ece216)
-- [INT213](https://github.com/sauravhathi/lpu-cse/tree/master/int213)
-- [INT306](https://github.com/sauravhathi/lpu-cse/tree/master/int306)
-- [MATH165](https://github.com/sauravhathi/lpu-cse/tree/master/math165)
-- [MATH166](https://github.com/sauravhathi/lpu-cse/tree/master/math166)
-- [MATH302](https://github.com/sauravhathi/lpu-cse/tree/master/math302)
-- [MATH401](https://github.com/sauravhathi/lpu-cse/tree/master/math401)
-- [MEC103](https://github.com/sauravhathi/lpu-cse/tree/master/mec103)
+- [shortway](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/shortway)***
+- [CSE101](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse101)
+- [CSE202](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse202)
+- [CSE211](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse211)
+- [CSE316](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse316)
+- [CSE325](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse325)
+- [CSE205](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse205)
+- [ECE131](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece131)
+- [ECE13](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece213)
+- [ECE216](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece216)
+- [INT213](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/int213)
+- [INT306](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/int306)
+- [MATH165](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math165)
+- [MATH166](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math166)
+- [MATH302](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math302)
+- [MATH401](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math401)
+- [MEC103](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/mec103)
 - [PEL](https://github.com/sauravhathi/lpu-cse/blob/master/pel%20mcq.docx)
 
 ## Contributing
