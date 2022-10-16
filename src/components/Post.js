@@ -8,17 +8,15 @@ const Post = () => {
 
     const [postContent, setPostContent] = useState('');
     const [isDark, setIsDark] = useState(true)
-
+    
+    const pot = require(`./p1.md`)
+    console.log(pot)
     useEffect(() => {
-        import(`./../posts/p1.md`)
-        .then((res) => {
-            fetch(res.default).then((res) => res.text()).then((text) => {
-                setPostContent(text);
-            });
-        }
-        );
+        fetch(pot)
+            .then(res => res.text())
+            .then(text => setPostContent(text))
+    }, [])
 
-    }, []);
 
     return (
         <div className="flex flex-col justify-center xl:py-4 md:py-2 px-[5%] xl:px-[25%] lg:px-[20%] md:px-[20%]  ">
