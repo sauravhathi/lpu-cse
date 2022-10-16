@@ -13,7 +13,7 @@
 </a>
 
 ## Subject
-- [shortway](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/shortway)***
+- [shortway](https://github.com/sauravhathi/lpu-cse/tree/master/shortway)***
 - [CSE101](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse101)
 - [CSE202](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse202)
 - [CSE211](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse211)
@@ -30,7 +30,7 @@
 - [MATH302](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math302)
 - [MATH401](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math401)
 - [MEC103](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/mec103)
-- [PEL](https://github.com/sauravhathi/lpu-cse/blob/master/pel%20mcq.docx)
+- [PEL](https://github.com/sauravhathi/lpu-cse/blob/master/Subjects/pel%20mcq.docx)
 
 ## Contributing
 
