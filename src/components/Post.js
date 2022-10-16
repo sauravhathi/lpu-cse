@@ -37,7 +37,7 @@ const Post = () => {
                             }
                         }}
                     >
-                        {postContent}
+                        ## Hello, world!
                     </Markdown>
                 </main>
             </article>
