@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/lpu-cse/static/css/main.4640d28f.css",
-    "main.js": "/lpu-cse/static/js/main.ff9c4fcb.js",
+    "main.css": "/lpu-cse/static/css/main.f3b87bcd.css",
+    "main.js": "/lpu-cse/static/js/main.66eab8a9.js",
     "static/js/787.147a0aec.chunk.js": "/lpu-cse/static/js/787.147a0aec.chunk.js",
     "index.html": "/lpu-cse/index.html",
-    "static/media/p1.md": "/lpu-cse/static/media/p1.c628549a1218685fa6cf.md",
-    "main.4640d28f.css.map": "/lpu-cse/static/css/main.4640d28f.css.map",
-    "main.ff9c4fcb.js.map": "/lpu-cse/static/js/main.ff9c4fcb.js.map",
+    "main.f3b87bcd.css.map": "/lpu-cse/static/css/main.f3b87bcd.css.map",
+    "main.66eab8a9.js.map": "/lpu-cse/static/js/main.66eab8a9.js.map",
     "787.147a0aec.chunk.js.map": "/lpu-cse/static/js/787.147a0aec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4640d28f.css",
-    "static/js/main.ff9c4fcb.js"
+    "static/css/main.f3b87bcd.css",
+    "static/js/main.66eab8a9.js"
   ]
 }
