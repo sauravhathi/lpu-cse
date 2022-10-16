@@ -24,9 +24,9 @@ const Post = () => {
         <div className="flex flex-col justify-center xl:py-4 md:py-2 px-[5%] xl:px-[25%] lg:px-[20%] md:px-[20%]  ">
             <article>
                 <main>
-                    
-                        ## Hello, world!
-                        This is a test post.
+                    <Markdown>
+                        # Hello, world!
+                    </Markdown>
                 </main>
             </article>
             <BackBtn />
