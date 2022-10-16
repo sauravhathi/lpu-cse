@@ -14,7 +14,7 @@
 
 ## Subject
 - [shortway](https://github.com/sauravhathi/lpu-cse/tree/master/shortway)***
-- [Projects] (https://sauravhathi.github.io/lpu-cse/)
+- [Projects](https://sauravhathi.github.io/lpu-cse/)
 - [CSE322 - FORMAL LANGUAGES AND AUTOMATION THEORY](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE322%20-%20FORMAL%20LANGUAGES%20AND%20AUTOMATION%20THEORY)
 - [CSE332 - INDUSTRY ETHICS AND LEGAL ISSUES](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE332%20-%20INDUSTRY%20ETHICS%20AND%20LEGAL%20ISSUES)
 - [INT331 - FUNDAMENTALS OF DEVOPS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT331%20-%20FUNDAMENTALS%20OF%20DEVOPS)
