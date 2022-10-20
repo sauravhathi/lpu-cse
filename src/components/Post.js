@@ -32,6 +32,7 @@ import postlist from "../posts.json"
 
 const Post = (props) => {
     const validId = parseInt(props.match.params.id)
+    console.log(validId)
     if (!validId) {
         return <Navigate to="/404" />
     }
@@ -50,11 +51,17 @@ const Post = (props) => {
         return <Navigate to="/404" />
     }
     return (
-            <div className="post">
+
+            <div>
                 <h2>{fetchedPost.title}</h2>
                 <small>Published on {fetchedPost.date} by {fetchedPost.author}</small>
                 <hr/>
-                <Markdown source={fetchedPost.content} escapeHtml={false} />
+                <Markdown
+                    source={fetchedPost.content}
+                    escapeHtml={false}
+
+                />
+                
             </div>
     )
 }

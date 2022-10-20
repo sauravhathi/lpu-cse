@@ -49,7 +49,7 @@ const Roadmaps = () => {
     };
 
     return (
-        
+
         <div className={`
         flex flex-col pr-4 pl-4 lg:pl-20 lg:pr-20 mt-5 mb-5 ${IsHome ? "xl:h-screen" : ""}
         `}>
@@ -62,40 +62,42 @@ const Roadmaps = () => {
                 ${hover ? "w-28" : "w-16"}`}></span>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                {roadmaps.map((roadmap) => (
-                    <div className="bg-white rounded-lg shadow-lg p-4">
-                        <div className="flex justify-between items-center">
-                            <div className="flex items-center">
-                                <div className="flex items-center justify-center h-12 w-12 rounded-full bg-slate-700">
-                                    <roadmap.icon className="text-white text-2xl" />
-                                </div>
-                                <div className="ml-4">
-                                    <h2 className="text-xl font-bold text-slate-800">{roadmap.language}</h2>
-                                    <p className="text-sm text-slate-500">{roadmap.roadmaps.length} Roadmaps</p>
-                                    <p className="text-sm text-slate-500">Last Updated:
-                                        <span className="text-slate-800">{" "} {currentDate.toDateString()}</span>
-                                    </p>
-                                    <p className="text-sm text-slate-500">Created By: <span className="text-slate-800">
-                                        Saura Hathi
-                                    </span></p>
-                                    <p className="text-sm text-slate-500">Contributors: <span className="text-slate-800">Saura Hathi</span></p>
+                {roadmaps.map((roadmap, i) => {
+                    return (
+                        <div key={i} className="bg-white rounded-lg shadow-lg p-4">
+                            <div className="flex flex-row justify-between">
+                                <div className="flex flex-row">
+                                    <div className="flex flex-col justify-center">
+                                        <span className="text-2xl">
+                                            <i className={`ri-${roadmap.icon} text-slate-800`}></i>
+                                        </span>
+                                        <span className="text-slate-800 font-bold text-lg ml-2">{roadmap.language}</span>
+                                        <span className="text-slate-800 text-sm ml-2">{roadmap.roadmaps.length} Roadmaps</span>
+                                        <span className="text-slate-800 text-sm ml-2">Last Updated: {currentDate.toDateString()}</span>
+                                    </div>
                                 </div>
                             </div>
-                            <div className="flex items-center">
-                                <Link to={roadmap.roadmaps[0].link}>
-                                    <button className="bg-gradient-to-r from-pink-500 to-slate-500 text-white px-4 py-2 rounded-lg shadow-lg hover:bg-slate-500 transition duration-300 ease-in-out">
-                                        View
-                                    </button>
-                                </Link>
+                            <div className="flex justify-between">
+                                <div className="flex flex-col justify-center">
+                                    <span className="text-slate-800 text-sm">Created by Saurav</span>
+                                    <span className="text-slate-800 text-sm">Updated by Saurav</span>
+                                </div>
+                                <div className="flex items-end">
+                                    <Link to="/roadmaps/javascript" className="text-slate-800 text-sm font-bold">View</Link>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                ))}
+                    )
+                }
+                )}
             </div>
-            <More link="" />
+            <div className="flex flex-row justify-end mt-4">
+                <More />
+            </div>
             <BackBtn />
         </div>
+
     );
-};
+}
 
 export default Roadmaps;

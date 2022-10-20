@@ -1,7 +1,5 @@
 import BackBtn from "./InBuild"
-import {Link} from "react-router-dom";
 import PostLists from "./PostLists"
-
 const Blog = () => {
 
 

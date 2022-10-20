@@ -26,7 +26,7 @@ return (
         <Route path="/study-materials" element={<StudyMaterials />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/roadmaps" element={<Roadmaps />} />
-        <Route path="/post/:id" render={(props) => <Post {...props} />} />
+        <Route exact path="/post/:id" render={(props) => <Post {...props} />} />
         <Route path="*" element={
           <>
             <h1 className="text-2xl font-bold">404 Page Not Found</h1>
