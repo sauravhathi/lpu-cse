@@ -5,6 +5,10 @@
 #### This is a collection of study materials, projects, and roadmaps for Computer Science Engineering students at Lovely Professional University. We are a community of students who are passionate about learning and teaching. We are here to help you learn and grow.
 
 ## Live: https://sauravhathi.github.io/lpu-cse/
+
+![image](https://user-images.githubusercontent.com/61316762/197244109-e7420479-47d4-4c40-8334-4654ae57c9f8.png)
+![image](https://user-images.githubusercontent.com/61316762/197244127-959bb9a9-3496-499c-9c61-9ec6f249c298.png)
+![image](https://user-images.githubusercontent.com/61316762/197244138-1fe20728-48dd-4c40-932e-35966ee25fa6.png)
  
 **<p align="center">Lovely Professional University End Term Exam Question Papers with Answers, Interview QA, Code Solutions</p>**
 <a href="https://sauravhathi.github.io/lpu-cse/">
