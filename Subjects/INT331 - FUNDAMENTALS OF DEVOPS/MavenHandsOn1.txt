@@ -1,0 +1,74 @@
+================< Maven Hands ON >================
+
+'mvn archetype:generate' 
+
+=> id : 'Enter the default value' 
+
+=> group number :'Enter the default value8'
+
+=> groupid :'general'
+
+=> artifactId : 'sample'
+
+=> property version : '0.1.0'
+
+=> property : 'Enter the default value'
+
+=> enter 'y'
+
+'yum install -y tree'
+
+'cd sample' 
+
+'tree'
+
+'mvn compile'
+
+'tree'
+
+'mvn test'
+
+'tree'
+
+'mvn package'
+
+'yum install -y git'
+
+'git --version'
+
+'git clone https://github.com/ratr45/PetClinic.git'
+
+'cd /PetClinic'
+
+'mvn package'
+
+'cd /opt'
+
+goto browser -> search  'apache tomcat' -> go to their official website -> goto downloads -> copy the link address of the .tar file
+
+'curl -O  <paste the link address>'
+
+'ls -l'
+
+'tar zxf apache-tomcat-9.0.24.tar.gz'
+
+'cd bin/'
+
+'./startup.sh'
+
+'<ip address>:8080' 
+
+'cd /opt/PetClinic/target'
+
+'cp petclinic.war /opt/apache-tomcat-9.0.24/webapps/'
+
+'cd /opt/apache-tomcat-9.0.24/bin/'
+
+Now we will deploy tomcat with the petclinic app, so we need to restart it
+
+'./shutdown.sh'
+
+'./startup.sh'
+
+goto tomcat on browser, here we wont see our website
+to see our website we nee to write '<ip address>:8080/petclinic'
