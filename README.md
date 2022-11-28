@@ -33,7 +33,7 @@
 - [CSE211](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse211)
 - [CSE316](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse316)
 - [CSE325](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse325)
-- [CSE205](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse205)
+- [CSE205 - DATA STRUCTURES AND ALGORITHMS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE205%20-%20DATA%20STRUCTURES%20AND%20ALGORITHMS)
 - [ECE131](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece131)
 - [ECE13](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece213)
 - [ECE216](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece216)
