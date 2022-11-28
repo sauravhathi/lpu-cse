@@ -38,7 +38,7 @@
 - [ECE13](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece213)
 - [ECE216](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece216)
 - [INT213](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/int213)
-- [INT306](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/int306)
+- [INT306 - DATABASE MANAGEMENT SYSTEMS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT306%20-%20DATABASE%20MANAGEMENT%20SYSTEMS)
 - [MATH165](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math165)
 - [MATH166](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math166)
 - [MATH302](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math302)
