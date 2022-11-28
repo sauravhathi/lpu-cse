@@ -18,7 +18,7 @@ const StudyMaterials = () => {
                 {
                     id: 1,
                     title: "C",
-                    link: "/study-materials/c"
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse101"
                 },
                 {
                     id: 2,
@@ -28,12 +28,12 @@ const StudyMaterials = () => {
                 {
                     id: 3,
                     title: "Java",
-                    link: "/study-materials/java"
+                    link: "https://github.com/sauravhathi/CSE310"
                 },
                 {
                     id: 4,
                     title: "Python",
-                    link: "/study-materials/python"
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/int213"
                 },
                 {
                     id: 5,
@@ -73,6 +73,31 @@ const StudyMaterials = () => {
             ]
         },
         {
+            subject: "Mathematics",
+            subSubjects: [
+                {
+                    id: 1,
+                    title: "Math165",
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math165"
+                },
+                {
+                    id: 2,
+                    title: "Math166",
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math166",
+                },
+                {
+                    id: 3,
+                    title: "Math302",
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math302",
+                },
+                {
+                    id: 4,
+                    title: "Math401",
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math401",
+                },
+            ]
+        },
+        {
             subject: "Computer Networks",
             subSubjects: [
                 {
@@ -98,7 +123,12 @@ const StudyMaterials = () => {
                 {
                     id: 1,
                     title: "Software Engineering",
-                    link: "/study-materials/software-engineering"
+                    link: "https://github.com/sauravhathi/CSE320"
+                },
+                {
+                    id: 2,
+                    title: "Fundamentals of Devops",
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT331%20-%20FUNDAMENTALS%20OF%20DEVOPS"
                 }
             ]
         },
@@ -108,7 +138,7 @@ const StudyMaterials = () => {
                 {
                     id: 1,
                     title: "Computer Architecture",
-                    link: "/study-materials/computer-architecture"
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse211"
                 }
             ]
         },
@@ -128,7 +158,7 @@ const StudyMaterials = () => {
                 {
                     id: 1,
                     title: "Artificial Intelligence",
-                    link: "/study-materials/artificial-intelligence"
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/int404"
                 }
             ]
         },
@@ -344,9 +374,9 @@ const StudyMaterials = () => {
                         <ul className="mt-4">
                             {item.subSubjects.map((subItem, subIndex) => (
                                 <li key={subIndex} className="text-slate-800 list-decimal list-inside">
-                                    <Link href={subItem.link} className="hover:text-pink-500">
+                                    <a href={subItem.link} className="hover:text-pink-500">
                                         {subItem.title}
-                                    </Link>
+                                    </a>
                                 </li>
                             ))}
                         </ul>
