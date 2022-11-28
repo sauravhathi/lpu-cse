@@ -5,6 +5,10 @@
 #### This is a collection of study materials, projects, and roadmaps for Computer Science Engineering students at Lovely Professional University. We are a community of students who are passionate about learning and teaching. We are here to help you learn and grow.
 
 ## Live: https://sauravhathi.github.io/lpu-cse/
+
+![image](https://user-images.githubusercontent.com/61316762/197244109-e7420479-47d4-4c40-8334-4654ae57c9f8.png)
+![image](https://user-images.githubusercontent.com/61316762/197244127-959bb9a9-3496-499c-9c61-9ec6f249c298.png)
+![image](https://user-images.githubusercontent.com/61316762/197244138-1fe20728-48dd-4c40-932e-35966ee25fa6.png)
  
 **<p align="center">Lovely Professional University End Term Exam Question Papers with Answers, Interview QA, Code Solutions</p>**
 <a href="https://sauravhathi.github.io/lpu-cse/">
@@ -15,6 +19,9 @@
 ## Subject
 - [shortway](https://github.com/sauravhathi/lpu-cse/tree/master/shortway)***
 - [Projects](https://sauravhathi.github.io/lpu-cse/)
+- [INT219 - Front End Web Developer](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT219%20-%20Front%20End%20Web%20Developer)
+- [INT358 - Backend Development I](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT358%20-%20Backend%20Development%20I)
+- [INT359 - Front End Development II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT359%20-%20Front%20End%20Development%20II)
 - [CSE322 - FORMAL LANGUAGES AND AUTOMATION THEORY](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE322%20-%20FORMAL%20LANGUAGES%20AND%20AUTOMATION%20THEORY)
 - [CSE332 - INDUSTRY ETHICS AND LEGAL ISSUES](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE332%20-%20INDUSTRY%20ETHICS%20AND%20LEGAL%20ISSUES)
 - [INT331 - FUNDAMENTALS OF DEVOPS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT331%20-%20FUNDAMENTALS%20OF%20DEVOPS)
@@ -22,16 +29,16 @@
 - [PEA305 - ANALYTICAL SKILLS-I](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEA305%20-%20ANALYTICAL%20SKILLS-I)
 - [PEV107 - VERBAL ABILITY-II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEV107%20-%20VERBAL%20ABILITY-II)
 - [CSE101](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse101)
-- [CSE202](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse202)
+- [CSE202 - OBJECT ORIENTED PROGRAMMING](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE202%20-%20OBJECT%20ORIENTED%20PROGRAMMING)
 - [CSE211](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse211)
 - [CSE316](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse316)
 - [CSE325](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse325)
-- [CSE205](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse205)
+- [CSE205 - DATA STRUCTURES AND ALGORITHMS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE205%20-%20DATA%20STRUCTURES%20AND%20ALGORITHMS)
 - [ECE131](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece131)
 - [ECE13](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece213)
 - [ECE216](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/ece216)
 - [INT213](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/int213)
-- [INT306](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/int306)
+- [INT306 - DATABASE MANAGEMENT SYSTEMS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT306%20-%20DATABASE%20MANAGEMENT%20SYSTEMS)
 - [MATH165](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math165)
 - [MATH166](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math166)
 - [MATH302](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math302)
