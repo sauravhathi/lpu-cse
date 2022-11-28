@@ -29,7 +29,7 @@
 - [PEA305 - ANALYTICAL SKILLS-I](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEA305%20-%20ANALYTICAL%20SKILLS-I)
 - [PEV107 - VERBAL ABILITY-II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEV107%20-%20VERBAL%20ABILITY-II)
 - [CSE101](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse101)
-- [CSE202](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse202)
+- [CSE202 - OBJECT ORIENTED PROGRAMMING](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE202%20-%20OBJECT%20ORIENTED%20PROGRAMMING)
 - [CSE211](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse211)
 - [CSE316](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse316)
 - [CSE325](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse325)
