@@ -17,7 +17,7 @@ return (
   <>
     <HashRouter>
       <Navbar />
-      <div className="mb-20">
+      <div>
       <Routes>
         <Route path="/" exact element={<Home />} />
         <Route path="/blog" element={<Blog />} />
