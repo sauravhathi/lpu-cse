@@ -373,11 +373,6 @@ const StudyMaterials = () => {
                         <h1 className="text-xl font-bold text-slate-800">{item.subject}</h1>
                         <ul className="mt-4">
                             {item.subSubjects.map((subItem, subIndex) => (
-                                // <li key={subIndex} className="text-slate-800 list-decimal list-inside">
-                                //     <a href={subItem.link} className="hover:text-pink-500">
-                                //         {subItem.title}
-                                //     </a>
-                                // </li>
                                 <a href={subItem.link} key={subIndex} className="hover:bg-slate-100 rounded-md p-2 block">
                                     <li className="text-slate-800 list-decimal list-inside">
                                         {subItem.title}
