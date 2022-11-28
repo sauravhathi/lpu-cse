@@ -38,12 +38,12 @@ const StudyMaterials = () => {
                 {
                     id: 5,
                     title: "Javascript",
-                    link: "/study-materials/javascript"
+                    link: "https://github.com/sauravhathi?tab=repositories"
                 },
                 {
                     id: 6,
                     title: "Kotlin",
-                    link: "/study-materials/kotlin"
+                    link: "https://kotlinlang.org/docs/home.html"
                 },
             ]
         },
@@ -52,8 +52,8 @@ const StudyMaterials = () => {
             subSubjects: [
                 {
                     id: 1,
-                    title: "Data Structures",
-                    link: "/study-materials/data-structures"
+                    title: "CSE205 - Data Structures and Algorithms",
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE205%20-%20DATA%20STRUCTURES%20AND%20ALGORITHMS"
                 },
                 {
                     id: 2,
@@ -282,15 +282,26 @@ const StudyMaterials = () => {
             subSubjects: [
                 {
                     id: 1,
-                    title: "Frontend Development",
-                    link: "/study-materials/frontend-development"
+                    title: "INT219 - Front End Web Developer",
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT219%20-%20Front%20End%20Web%20Developer"
                 },
                 {
                     id: 2,
-                    title: "Backend Development",
-                    link: "/study-materials/backend-development"
+                    title: "INT359 - Front End Development II",
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT359%20-%20Front%20End%20Development%20II"
                 }
             ]
+        },
+        {
+            subject: "Backend Development",
+            subSubjects: [
+                {   
+                    id: 1,
+                    title: "INT358 - Backend Development I",
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT358%20-%20Backend%20Development%20I"
+                }
+            ]
+
         },
         {
             subject: "DevOps",
