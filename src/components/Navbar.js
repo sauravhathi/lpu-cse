@@ -3,9 +3,17 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
     const [showMenu, setShowMenu] = useState(false);
-
+    const [isScrolling, setIsScrolling] = useState(false);
     const toggleMenu = () => {
         setShowMenu(!showMenu);
+    };
+
+    const handleScroll = () => {
+        if (window.scrollY > 0) {
+            setIsScrolling(true);
+        } else {
+            setIsScrolling(false);
+        }
     };
 
     const NavbarLinks = [
@@ -37,7 +45,7 @@ const Navbar = () => {
 
     return (
       // nav ->  bottom border shadow
-      <nav class={`flex items-center justify-between z-50 flex-wrap bg-white pr-4 pl-4 pt-1 pb-1 lg:pl-20 lg:pr-20 sticky top-0 ${showMenu ? "text-left": "text-center"} border-b border-gray-200 shadow-sm`}>
+      <nav class={`flex items-center justify-between z-50 flex-wrap bg-white pr-4 pl-4 pt-1 pb-1 lg:pl-20 lg:pr-20 ${showMenu ? "text-left": "text-center"} border-b border-gray-200 shadow-sm sticky top-0`}>
         <div class="flex items-center flex-shrink-0 text-slate-800 mr-6">
           <Link to="/">
           <img

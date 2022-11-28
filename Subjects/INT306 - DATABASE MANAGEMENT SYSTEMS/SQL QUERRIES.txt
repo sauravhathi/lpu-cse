@@ -1,0 +1,181 @@
+31-AUGUST-2021(TUESDAY): E1909,E2013, K20YR
+1. SELECT * FROM EMP
+2. SELECT EMPNO FROM EMP
+3. SELECT EMPNO, ENAME, DEPTNO, SAL FROM EMP
+
+/* using distinct query
+   displays the unique data */
+4. SELECT DISTINCT SAL FROM EMP
+5. SELECT COUNT(DISTINCT SAL) FROM EMP   --NUMBER OF different SALARIES
+
+--"where" clause
+6. SELECT * FROM EMP WHERE SAL=1250        --all details of employee whose salary = 1250
+7. SELECT ENAME FROM EMP WHERE SAL=1250    --only the name of the employees whose salary = 1250
+8. SELECT * FROM EMP WHERE JOB='MANAGER'   --Strings represented with '' only, no ""
+
+9. SELECT * FROM EMP WHERE SAL BETWEEN 800 AND 3000  --BETWEEN: to display a certain range
+10. SELECT * FROM EMP WHERE SAL=3000 AND DEPTNO=20
+11. SELECT * FROM EMP WHERE SAL=3000 OR DEPTNO=20
+12. SELECT * FROM EMP WHERE NOT DEPTNO=20
+
+7-SEPTEMBER-2021: E1909,E2013
+1. CREATE  table Emp_Info(Emp_Id INT, EName VARCHAR(100), Sal INT)  --creating new table named Emp_Info
+2. SELECT * from Emp_Info                                           --retrieve table's content
+3. INSERT into Emp_Info values(23837, 'Mehak', 10000)               --adding data into table
+4. ALTER table Emp_Info add(Gender CHAR)                            --add single column to table
+5. ALTER table Emp_Info add(DOB DATE, City VARCHAR(100))            --add multiple columns in table at one go
+6. ALTER table Emp_Info add(Working CHAR  default 'Y')              --add column with default value
+7. ALTER table Emp_Info modify(Gender VARCHAR(20))                  --modify datatype of existing column
+8. ALTER table Emp_Info rename column EName to Emp_Name             --Rename a column
+9. ALTER table Emp_Info drop(DOB)                                   --Drop/remove a column
+10. TRUNCATE table Emp_Info                                          --removing all records from table
+11. Insert into Emp_Info values(23837, 'Mehak',10000,'F','Jalandhar', 'Y')
+12. RENAME Emp_Info to Employee_Data                                 --rename a table
+13. DROP table Employee_Data                                         --completely removes a table from d/b
+14. SELECT * from Employee_Data
+
+10-September-2021 E1909/E2013
+1. CREATE table Employee_Data(Emp_ID INT, EName VARCHAR(100), Profile VARCHAR(20), Dept_Name VARCHAR(100))
+2. INSERT into Employee_Data VALUES(1008, 'Ramesh', 'Network Admin', 'Technical' ,'M') 
+3. SELECT * from Employee_Data
+4. INSERT into Employee_Data(Emp_ID, EName, Profile, Dept_Name) VALUES(1007, 'Gitika', 'Tester', 'Testing')
+5. UPDATE Employee_Data SET Profile = 'Manager' WHERE  Emp_ID = 1001
+6. ALTER table Employee_Data ADD(Gender VARCHAR(10))
+7. UPDATE Employee_Data SET Gender = 'M' WHERE Emp_ID = 1003
+8. DELETE from Employee_Data where Emp_ID = 1003
+9. UPDATE Employee_Data SET EName = 'Rameshh' , Emp_ID = 1009 WHERE Profile = 'Network Admin'
+
+14-September-2021, E1909/E2013
+1. CREATE table Employee_Data(Emp_ID INT, EName VARCHAR(100), Profile VARCHAR(100), City VARCHAR(200), Gender CHAR)
+2. INSERT into Employee_Data VALUES(102, 'Rajesh', 'Network Admin', 'Leh', 'M')
+3. SELECT * from Employee_Data
+4. SELECT * from Employee_Data WHERE Gender = 'M'
+5. SELECT * from Employee_Data WHERE Gender = 'F' AND City = 'Kolkata'
+6. SELECT * from Employee_Data WHERE Profile = 'Coordinator' OR Gender = 'M'
+7. SELECT * from Employee_Data WHERE NOT Gender = 'M'
+8. SELECT * from Employee_Data WHERE ROWNUM <= 3   --display on first n rows
+9. SELECT * from Employee_Data WHERE Emp_ID BETWEEN 101 AND 103
+10. SELECT * from Employee_Data WHERE Emp_ID LIKE '10%'   --Emp_ID stating with '10'
+11. SELECT * from Employee_Data WHERE Profile LIKE '%er'  --profile ending with 'er'
+12. SELECT * from Employee_Data WHERE EName LIKE '%a%'    --EName that have 'a' in any position
+13. SELECT * from Employee_Data WHERE EName LIKE '_a%'   --EName with 'a' at 2nd position
+14. SELECT * from Employee_Data WHERE EName LIKE 'R__%'
+15. SELECT * from Employee_Data WHERE Emp_ID NOT LIKE '10%'   --Emp_ID not starting with '10'
+16. SELECT * from Employee_Data ORDER BY Emp_ID  --Sorting in Ascending order the table as per the City name
+17. SELECT * from Employee_Data ORDER BY Emp_ID DESC  --Descending order of table as per the city name
+18. SELECT * from Employee_Data ORDER BY Emp_ID , EName DESC
+
+17th-Septemner, 2021: E1909/E2013
+SELECT * from Employee_Data
+ALTER table Employee_Data ADD(City VARCHAR(10))
+UPDATE Employee_Data SET City = 'Kolkata' WHERE Emp_ID = 103
+SELECT COUNT(EName) from Employee_Data
+SELECT COUNT(EName) from Employee_Data WHERE Emp_ID >= 106
+SELECT AVG(Salary) from Employee_Data
+SELECT SUM(Salary) from Employee_Data
+SELECT MIN(Salary) AS Lowest_Pay from Employee_Data 
+SELECT MAX(Salary) AS Highest_Pay from Employee_Data
+INSERT into Employee_Data VALUES(110, 'Suraj', 'Developer','M', 35000, 'Noida')
+SELECT COUNT(Emp_ID), City from Employee_Data GROUP BY City --no. of employees in each city
+SELECT COUNT(Emp_ID), City from Employee_Data GROUP BY City ORDER BY COUNT(Emp_ID)
+
+28th September, 2021--- SQL JOINS---K20YR
+INSERT into Student_Sports VALUES(10, 'Football')
+SELECT * from Student_Sports
+
+CREATE table Emp_Data(Emp_ID INT, EName VARCHAR(100), City VARCHAR(30), Phone_No NUMBER(10), Age INT)
+INSERT into Emp_Data VALUES(4, 'Aditya', 'Hisar', 9988770000, 21)
+SELECT * from Emp_Data
+
+CREATE table Student_Data(Roll_No INT, SName VARCHAR(100), City VARCHAR(30), Phone_No NUMBER(10), Age INT)
+INSERT into Student_Data VALUES(5, 'Suman', 'Pune', 6677889900, 19)
+SELECT * from Student_Data                  --selection
+SELECT * from Student_Data WHERE Age > 18   --selection
+SELECT Name, Phone_No from Emp_Data        --Projection
+
+--INNER JOIN(or JOIN)
+SELECT Student_Sports.Sport, Student_Data.SName, Student_Data.Roll_No 
+from Student_Data
+INNER JOIN Student_Sports
+ON Student_Data.Roll_No = Student_Sports.Roll_No
+
+--LEFT JOIN(or LEFT OUTER JOIN)
+SELECT Student_Data.SName, Student_Sports.Sport
+from Student_Data
+LEFT JOIN Student_Sports
+ON Student_Sports.Roll_No = Student_Data.Roll_No
+
+--RIGHT JOIN(or RIGHT OUTER JOIN)
+SELECT Student_Data.SName, Student_Sports.Sport
+from Student_Data
+RIGHT JOIN Student_Sports
+ON Student_Sports.Roll_No = Student_Data.Roll_No
+
+--FULL JOIN
+SELECT Student_Data.SName, Student_Sports.Sport
+from Student_Data
+FULL JOIN Student_Sports
+ON Student_Sports.Roll_No = Student_Data.Roll_No
+
+--CROSS JOIN(Known as CARTESIAN PRODUCT)
+SELECT * from Student_Data CROSS JOIN Student_Sports
+
+--NATURAL JOIN
+SELECT * from Student_Data NATURAL JOIN Student_Sports
+
+--SELF JOIN
+SELECT a.Roll_No, b.SName 
+from Student_Data a, Student_Data b
+WHERE a. Roll_No < b.Roll_No
+
+*****************************************************************
+SQL VIEWS:
+SELECT * from Student_Detail
+SELECT * from Sport_Data
+
+--CREATING VIEW FROM SINGLE TABLE
+CREATE VIEW Details AS
+SELECT SName, City from Student_Detail
+WHERE Roll_No < 4
+
+SELECT * from Details   --see the data in the view
+
+--CREATING A VIEW USING ORDER BY
+CREATE VIEW Stud_Name AS 
+SELECT Roll_No, SName from Student_Detail
+ORDER BY Roll_No
+
+SELECT * from Stud_Name
+
+--CREATING VIEW FROM MULTIPLE TABLES
+CREATE VIEW Sports AS
+SELECT Student_Detail.SName, Student_Detail.City, Sport_Data.Sport
+FROM Student_Detail, Sport_Data
+WHERE Student_Detail.Roll_No = Sport_Data.Roll_No
+
+SELECT * from Sports
+
+--DELETING VIEW
+DROP VIEW Sports
+
+--UPDATING VIEW
+CREATE OR REPLACE VIEW Stud_Name AS 
+SELECT Roll_No, SName, Age from Student_Detail
+
+SELECT * from Stud_Name
+
+--INSERTING ROW IN VIEW
+INSERT INTO Stud_Name(Roll_No, SName, Age) VALUES(10, 'Anamika',20)
+SELECT * from Stud_Name
+
+--DELETING ROW FROM VIEW
+DELETE FROM Stud_Name WHERE Age = 20
+
+--READ-ONLY VIEW
+CREATE OR REPLACE VIEW Stud_Info AS
+SELECT SName, Age from Student_Detail
+WHERE ROLL_No < 5 WITH read only
+
+SELECT * from Stud_Info
+
+INSERT INTO Stud_Info(SName, Age) VALUES('Anamika',20)  --ERROR!!

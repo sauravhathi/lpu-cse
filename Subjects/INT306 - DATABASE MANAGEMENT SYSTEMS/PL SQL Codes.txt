@@ -1,0 +1,364 @@
+1. GREATEST NUMBER AMONG 2 NUMBERS USING IF-ELSE
+DECLARE
+    a NUMBER(2);
+    b NUMBER(2);
+BEGIN
+    DBMS_OUTPUT.PUT_LINE('Enter value of a: ');
+    a := :A;   --user input
+    DBMS_OUTPUT.PUT_LINE('Enter value of b: ');
+    b := :B;   --user input
+    IF a>b THEN
+             DBMS_OUTPUT.PUT_LINE('Greatest number: '||a);
+    ELSE
+          DBMS_OUTPUT.PUT_LINE('Greatest number: '||b);
+    END IF;
+END;
+/
+
+2. LOOP-EXIT TO PRINT NUMBERS FROM 1-N
+DECLARE
+    a NUMBER := 1;
+    n NUMBER;
+BEGIN
+    DBMS_OUTPUT.PUT_LINE('Enter value of n: ');
+    n := :n;  
+    LOOP          
+       DBMS_OUTPUT.PUT_LINE(a);
+       a := a+1;
+      EXIT WHEN a > n;
+    END LOOP;
+END;
+/
+
+3. CALCULATE +,-,*,/ OF 2 NUMBERS USING IF-THEN-ELSIF
+DECLARE
+    a NUMBER := :a;
+    b NUMBER := :b;
+    result NUMBER;
+    x CHAR := :operation;
+
+BEGIN
+    IF x = '+' THEN
+       result := a+b; 
+    ELSIF x = '-' THEN
+       result := a-b;
+    ELSIF x = '*' THEN
+       result := a*b; 
+    ELSIF x = '/' THEN
+       result := a/b;              
+    ELSE          
+       DBMS_OUTPUT.PUT_LINE('INVALID OPERATION');
+    END IF;
+DBMS_OUTPUT.PUT_LINE('Result = '||result);
+END;
+/
+
+4. PRINT THE DESIRED MULTIPLICATION TABLE USING WHILE LOOP
+DECLARE
+    n NUMBER:= :ENTER_TABLE_OF;
+    i NUMBER:= 1;
+    res NUMBER;
+
+BEGIN
+    DBMS_OUTPUT.PUT_LINE('Table of '|| n);
+    WHILE i<= 10
+    LOOP
+          res := n * i;
+          DBMS_OUTPUT.PUT_LINE(n ||'*'|| i ||'='|| res);
+          i := i+1;
+    END LOOP;
+END;
+/
+
+5. PRINT TABLE OF A NUMBER USING FOR LOOP
+Declare
+	total number(4);
+	i number(2);
+Begin 
+        DBMS_OUTPUT.PUT_LINE('Table of 2 using for loop');
+	FOR i in 1..10
+	LOOP
+		total := 2*i;
+		Dbms_output.put_line('2*'||i||'='||total);
+		END LOOP;
+End; 
+/
+
+6. PRINT FIRST N NUMBERS IN REVERSE ORDER USING SIMPLE LOOP
+DECLARE
+     n NUMBER := :range;  --last number to be printed
+BEGIN
+     DBMS_OUTPUT.PUT_LINE('First ' || n ||' numbers in reverse order are:');
+     LOOP
+         DBMS_OUTPUT.PUT_LINE(n);
+         n := n-1;
+         EXIT WHEN n<1;
+     END LOOP;
+END;
+/
+
+7. Trap Predefined Oracle Server Errors
+DECLARE
+	a number(3):= :a;
+	b number(3):= :b;
+BEGIN
+	DBMS_OUTPUT.PUT_LINE(a/b);
+	EXCEPTION
+	      WHEN zero_divide THEN
+	      DBMS_OUTPUT.PUT_LINE('Division by zero not allowed..');
+END;
+/
+
+8. User defined exceptions: 
+DECLARE
+   x int:= :x; 
+   y int:= :y;
+   res float;
+   exp1 EXCEPTION;
+   exp2 EXCEPTION;
+  
+BEGIN
+   IF y=0 then
+       raise exp1;
+  
+   ELSIF y > x then
+      raise exp2;
+  
+   ELSE
+      res := x / y;
+      dbms_output.put_line('Result is '||res);
+  
+   END IF;
+  
+EXCEPTION
+   WHEN exp1 THEN
+      dbms_output.put_line('Error! Division by zero not allowed');
+  
+   WHEN exp2 THEN
+      dbms_output.put_line('Error! y>x..please check the input');
+  
+END;
+
+9. RAISE_APPLICATION_ERROR:
+DECLARE
+    myex EXCEPTION;
+    n NUMBER := 10;
+  
+BEGIN
+    FOR i IN 1..n 
+    LOOP
+        dbms_output.put_line(i*i);
+        IF i*i=36 THEN
+        RAISE myex;
+        END IF;
+    END LOOP;
+  
+EXCEPTION
+    WHEN myex THEN
+        RAISE_APPLICATION_ERROR(-20015, 'Exception handled!!');
+  
+END;
+
+10. --NO_DATA_FOUND PRE-DEFINED EXCEPTION
+
+DECLARE
+     a VARCHAR(20);
+BEGIN
+     SELECT ID into a FROM DEMO1 WHERE NAME = 'Aarti'; 
+EXCEPTION
+     WHEN no_data_found THEN
+         DBMS_OUTPUT.PUT_LINE('ERROR!');
+         DBMS_OUTPUT.PUT_LINE('No such student found in Database...');
+END;
+
+11. --TOO_MANY_ROWS PRE-DEFINED EXCEPTION
+
+DECLARE
+     a VARCHAR(20);
+
+BEGIN   --Raise exception when SELECT returns multiple rows 
+     SELECT NAME into a from DEMO1;
+     DBMS_OUTPUT.PUT_LINE(a);
+
+EXCEPTION
+     WHEN too_many_rows THEN
+         DBMS_OUTPUT.PUT_LINE('ERROR! Multiple rows can not be accessed..'); 
+END;
+
+12. --VALUE_ERROR PRE-DEFINED EXCEPTION
+
+DECLARE
+     a NUMBER;
+
+BEGIN   
+     SELECT NAME into a from DEMO1 WHERE NAME = 'Suraj';
+     DBMS_OUTPUT.PUT_LINE('Name is '|| a);
+
+EXCEPTION
+     WHEN value_error THEN
+         DBMS_OUTPUT.PUT_LINE('ERROR! Name can not be a Number');
+END;
+
+13. --USER DEFINED EXCEPTIONS
+DECLARE
+     x INT := :x;
+     y INT := :y;
+     result FLOAT;
+     excp1 EXCEPTION;
+     excp2 EXCEPTION;
+BEGIN
+    IF y = 0 THEN
+         RAISE excp1;
+    ELSIF y > x THEN
+         RAISE excp2;
+    ELSE
+        result := x/y;
+        DBMS_OUTPUT.PUT_LINE('x/y = '||result);
+    END IF;
+EXCEPTION
+    WHEN excp1 THEN
+         DBMS_OUTPUT.PUT_LINE('ERROR! Change the value of y');
+    WHEN excp2 THEN
+         DBMS_OUTPUT.PUT_LINE('ERROR! y can not be greater than x');
+END;
+
+14. -- UNNAMED EXCEPTION USING PRAGMA
+DECLARE
+     excp exception;
+     PRAGMA EXCEPTION_INIT(excp, -20115);
+     n INT := 10;
+BEGIN
+     FOR i IN 1..n
+     LOOP 
+        DBMS_OUTPUT.PUT_LINE(i*i);
+        IF i*i = 49 THEN
+            RAISE excp;
+        END IF;
+    END LOOP;
+EXCEPTION
+    WHEN excp THEN
+        DBMS_OUTPUT.PUT_LINE('Rest of the squares cant be calculated...');
+END;
+
+15. --RAISE_APPLICATION_ERROR
+
+DECLARE
+    excp EXCEPTION;
+    n INT := 10;
+
+BEGIN
+    For i IN 1..n
+    LOOP
+       DBMS_OUTPUT.PUT_LINE(i*i);
+       IF i*i = 49 THEN
+           RAISE excp;
+       END IF;
+     END LOOP;
+
+EXCEPTION
+   WHEN excp THEN
+        RAISE_APPLICATION_ERROR(-20123, 'Its section k20yr');
+END;
+
+*************CURSORS*****************
+1. 
+CREATE table Customers (ID INT, NAME VARCHAR(20), AGE INT, CITY VARCHAR(20), AMOUNT INT)
+INSERT INTO Customers VALUES(5, 'Kavish', 24, 'Delhi', 5000)
+SELECT * FROM Customers
+
+--IMPLICIT CURSORS
+DECLARE
+      rows NUMBER;
+BEGIN
+      UPDATE Customers SET AMOUNT = AMOUNT + 1000;
+      IF sql%notfound THEN
+            DBMS_OUTPUT.PUT_LINE('NO CUSTOMER SELECTED...');
+      ELSIF sql%found THEN
+            rows := sql%rowcount;
+            DBMS_OUTPUT.PUT_LINE(rows ||' rows has been selected...');
+      END IF;
+END;
+
+2. --EXPLICIT CURSORS
+ 
+DECLARE 
+    C_ID Customers.ID%TYPE;
+    C_NAME Customers.NAME%TYPE;
+    C_CITY Customers.CITY%TYPE;
+    CURSOR C1 IS SELECT ID, NAME, CITY FROM Customers;  --DECLARED CURSOR
+BEGIN
+    OPEN C1;         --CURSOR OPENING
+    LOOP
+       FETCH C1 INTO C_ID, C_NAME, C_CITY;
+       EXIT WHEN C1%NOTFOUND;
+       DBMS_OUTPUT.PUT_LINE(C_ID|| ' '||C_NAME|| ' ' ||C_CITY);
+    END LOOP;
+    CLOSE C1;    --CURSOR CLOSED
+END;   
+
+**********FUNCTIONS****************
+1. --FUNCTIONS: AFTER RUUNING IT CLEAR SQL AREA
+CREATE OR REPLACE FUNCTION c_count
+RETURN NUMBER IS
+    total_cust NUMBER := 0;
+BEGIN
+    SELECT COUNT(*) INTO total_cust From Customers;
+    RETURN total_cust;
+END;
+
+****NOW WRITE
+--CALLING FUNCTION
+
+DECLARE
+    x NUMBER;
+BEGIN
+    x := c_count();
+    DBMS_OUTPUT.PUT_LINE('Total customers = '||x);
+END;
+
+2. --PL SQL FUNCTION TO FIND THE MAX NUMBER
+
+DECLARE
+   a NUMBER;
+   b NUMBER;
+   c NUMBER;
+FUNCTION maximum(x IN NUMBER, y IN NUMBER)
+RETURN NUMBER IS
+    z NUMBER;
+BEGIN
+    IF x > y THEN
+        z := x;
+    ELSE
+       z := y;
+    END IF;
+    RETURN z;
+END;
+
+BEGIN
+    a := 700;
+    b := 70;
+    c := maximum(a,b);
+    DBMS_OUTPUT.PUT_LINE('Maximum = ' || c);
+END;
+
+
+*********** TRIGGGERS*****************************
+CREATE OR REPLACE TRIGGER Bill_Change
+BEFORE DELETE OR UPDATE OR INSERT
+ON Customers
+FOR EACH ROW
+WHEN (NEW.ID > 0)
+DECLARE 
+   bill_diff NUMBER;
+BEGIN
+   bill_diff := :NEW.BILL - :OLD.BILL;
+   DBMS_OUTPUT.PUT_LINE('OLD BILL = ' || :OLD.BILL);
+   DBMS_OUTPUT.PUT_LINE('NEW BILL = ' || :NEW.BILL);
+   DBMS_OUTPUT.PUT_LINE('Difference in Bill = ' || bill_diff);
+END;
+
+SELECT * FROM Customers
+INSERT INTO Customers (ID, NAME, AGE, CITY, BILL)
+VALUES(10, 'Babu rao', 50, 'Mumbai', 10000)
+
+UPDATE Customers SET BILL = BILL + 3000 WHERE ID = 2
