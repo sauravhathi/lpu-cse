@@ -51,11 +51,11 @@ const Roadmaps = () => {
     return (
 
         <div className={`
-        flex flex-col pr-4 pl-4 lg:pl-20 lg:pr-20 mt-5 mb-5 ${IsHome ? "xl:h-screen" : ""}
+        flex flex-col pr-4 pl-4 lg:pl-20 lg:pr-20 mt-5 mb-5 ${IsHome ? "" : ""}
         `}>
             <div>
                 <h1 className={`text-3xl font-bold text-slate-800`}
-                    onMouseOver={toggleHover}
+                    onMouseEnter={toggleHover}
                 >Roadmaps</h1>
 
                 <span className={`bg-gradient-to-l from-slate-200 to-pink-500  h-1 mt-2 mb-4 block
@@ -91,10 +91,10 @@ const Roadmaps = () => {
                 }
                 )}
             </div>
-            <div className="flex flex-row justify-end mt-4">
-                <More />
+            <div className="flex flex-wrap justify-between mt-4">
+                <BackBtn />
+                {IsHome() ? <More link="/roadmaps" /> : ""}
             </div>
-            <BackBtn />
         </div>
 
     );

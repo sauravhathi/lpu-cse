@@ -29,10 +29,10 @@ const Resources = () => {
     };
 
     return (
-        <div className="flex flex-col justify-center pr-4 pl-4 lg:pl-20 lg:pr-20 mt-5 mb-5 h-screen">
+        <div className="flex flex-col pr-4 pl-4 lg:pl-20 lg:pr-20 mt-5 mb-5 h-screen">
             <div>
                 <h1 className={`text-3xl font-bold text-slate-800`}
-                onMouseOver={toggleHover}
+                onMouseEnter={toggleHover}
                 >Resources</h1>
 
                 <span className={`bg-gradient-to-l from-slate-200 to-pink-500  h-1 mt-2 mb-4 block
