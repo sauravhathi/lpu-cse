@@ -1,4 +1,5 @@
 # lpu-cse
+[![pages-build-deployment](https://github.com/sauravhathi/lpu-cse/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/sauravhathi/lpu-cse/actions/workflows/pages/pages-build-deployment)
 
 ## Study Materials, Projects, Roadmap, and more.
 
