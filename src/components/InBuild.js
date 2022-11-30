@@ -8,8 +8,10 @@ const BackBtn = () => {
     return (
         <>    {
                 window.location.href === "https://sauravhathi.github.io/lpu-cse/" || window.location.href === "https://sauravhathi.github.io/lpu-cse/#/" || window.location.href === "https://sauravhathi.github.io/lpu-cse" || window.location.href === "https://sauravhathi.github.io/lpu-cse/#/" || window.location.href === "https://sauravhathi.github.io/lpu-cse/#" || window.location.href === "http://localhost:3000/lpu-cse#/" || window.location.href === "http://localhost:3000/lpu-cse" || window.location.href === "http://localhost:3000/lpu-cse/#/" || window.location.href === "http://localhost:3000/lpu-cse/#" ? "" :
-                        <button onClick={handleClick} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                            Back</button>
+                        // <button onClick={handleClick} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-4 rounded">
+                        //     Back</button>
+                        <Link onClick={handleClick} to="/" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-4 rounded">
+                            Back</Link>
             }
 
         </>

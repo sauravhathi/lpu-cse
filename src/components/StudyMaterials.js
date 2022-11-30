@@ -212,8 +212,8 @@ const StudyMaterials = () => {
             subSubjects: [
                 {
                     id: 1,
-                    title: "Cyber Security",
-                    link: "/study-materials/cyber-security"
+                    title: "INT242 - Introduction to Cyber Security Essentials",
+                    link: "https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT242%20-%20Introduction%20to%20CYBER%20SECURITY%20ESSENTIALS"
                 }
             ]
         },
