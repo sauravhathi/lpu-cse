@@ -23,7 +23,7 @@
 - [INT358 - Backend Development I](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT358%20-%20Backend%20Development%20I)
 - [INT359 - Front End Development II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT359%20-%20Front%20End%20Development%20II)
 - [CSE322 - FORMAL LANGUAGES AND AUTOMATION THEORY](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE322%20-%20FORMAL%20LANGUAGES%20AND%20AUTOMATION%20THEORY)
- - [CSE322 Handwritten Notes](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE322%20-%20FORMAL%20LANGUAGES%20AND%20AUTOMATION%20THEORY/Handwritten%20Notes)
+  - [CSE322 Handwritten Notes](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE322%20-%20FORMAL%20LANGUAGES%20AND%20AUTOMATION%20THEORY/Handwritten%20Notes)
 - [INT242 - Introduction to CYBER SECURITY ESSENTIALS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT242%20-%20Introduction%20to%20CYBER%20SECURITY%20ESSENTIALS)
 - [CSE332 - INDUSTRY ETHICS AND LEGAL ISSUES](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE332%20-%20INDUSTRY%20ETHICS%20AND%20LEGAL%20ISSUES)
 - [INT331 - FUNDAMENTALS OF DEVOPS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT331%20-%20FUNDAMENTALS%20OF%20DEVOPS)
