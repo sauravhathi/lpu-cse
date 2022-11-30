@@ -50,7 +50,6 @@ const Resources = () => {
                     </Link>
                 ))}
             </div>
-            <BackBtn />
         </div>
     );
 };

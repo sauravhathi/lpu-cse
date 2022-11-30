@@ -8,7 +8,9 @@ const Blog = () => {
             <div>
                 <PostLists />
             </div>
-            <BackBtn />
+            <div className="flex flex-wrap justify-between mt-4">
+                <BackBtn />
+            </div>
         </div>
 
     );
