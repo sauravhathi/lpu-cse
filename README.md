@@ -31,6 +31,7 @@
 - [INT217 - INTRODUCTION TO DATA MANAGEMENT](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT217%20-%20INTRODUCTION%20TO%20DATA%20MANAGEMENT)
 - [PEA305 - ANALYTICAL SKILLS-I](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEA305%20-%20ANALYTICAL%20SKILLS-I)
 - [PEV107 - VERBAL ABILITY-II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEV107%20-%20VERBAL%20ABILITY-II)
+- [PEV110 - Advanced Verbal Ability-II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEV110%20-%20Advanced%20Verbal%20Ability-II)
 - [CSE101](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse101)
 - [CSE202 - OBJECT ORIENTED PROGRAMMING](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE202%20-%20OBJECT%20ORIENTED%20PROGRAMMING)
 - [CSE211](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse211)
