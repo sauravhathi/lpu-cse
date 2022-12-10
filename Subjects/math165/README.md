@@ -55,5 +55,7 @@ References:
 3. MATHEMATICS TEXT BOOK FOR CLASS XII PART II by -, NCERT
 
 CO4 :: describe calculus of multivariate functions and their applications.
+
 CO5 :: evaluate surface and volume integral using multiple integral.
+
 CO6 :: describe the concept of Fourier series and its application.
