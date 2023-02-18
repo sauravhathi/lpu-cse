@@ -1,0 +1,16 @@
+ int dp[][] = new int[s.length][s.length];
+	  char[] s=s.toCharArray();
+        for(int i=0; i < s.length; i++){
+            dp[i][i] = 1;
+        }
+       for( int i=2;i<=s.length;i++) {
+    	   for (int temp = 0; temp < s.length-i+1; temp++) {
+			
+    		   int j=temp+i-1;
+    		   if(s[temp]==s[j]) dp[temp][j]=dp[temp+1][j-1]+2;
+    		   else {
+    			   dp[temp][j]=Math.max(dp[temp + 1][j], dp[temp][j - 1]);
+    		   }
+		}
+       }
+      return (s.length()-dp[0][s.length-1]);
