@@ -73,7 +73,7 @@
 ## Projects & ShortWay
 
 - [shortway](https://github.com/sauravhathi/lpu-cse/tree/master/shortway)***
-- [Projects](https://sauravhathi.github.io/lpu-cse/)
+- [Projects](https://github.com/sauravhathi?tab=repositories&q=&type=&language=&sort=)
 
 ## Contributing
 
