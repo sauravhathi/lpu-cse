@@ -1,0 +1,45 @@
+Latest version is 15.2
+download from https://www.postgresql.org/download/
+automatically shell will be installed once its installed 
+
+Go to the shell, only set password , else set default
+
+1) Creating database: - 
+create database databasename (create database student) 
+2) To check database : -
+command -> \l 
+3) Command for connecting to database :-
+\c student (to connect with database)
+4) creating the schema : - 
+command -> create schema myschema1; 
+5) Creating table schema details 
+create table myschema1.details(id int not null, name varchar(20) not null, age int not null, address char(25), marks decimal(5,2), primary key(id));
+CREATE TABLE 
+6) to check the details of schema details :- 
+select * from myschema1.details; 
+7) Creating table
+create table details(id int, name text,age int, address char(29),marks real);
+CREATE TABLE
+8) Insert values :- 
+insert into details(id, name, age, address,marks) values(1,'riya',23,'jalandhar',78);
+9) Select * from details
+10) select id,age from details;
+11) select count(*) as "records" from details 
+to see the rows , fetched as records
+12) select * from details where marks > 70;
+13) select * from details where marks > 70 and id>=1;
+14) select * from details where marks > 70 or id>=1;
+15) _ -> one character its going to accept and % -> any character 
+16) select * from details where like 'ri%';
+17) Updating :-
+-> update details set age=25 where id=1;
+18) Deleting:-
+-> delete from details where id=1;
+19) Delete table :-
+-> drop table details; 
+20) cross check \d -> did  not find any relations
+21) dropping database
+first come out of database
+\c postgres 
+drop database student1;
+DROP DATABASE 

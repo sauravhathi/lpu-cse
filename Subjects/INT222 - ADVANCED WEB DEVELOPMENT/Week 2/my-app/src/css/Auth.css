@@ -1,0 +1,29 @@
+.auth-section {
+  text-align: center;
+}
+
+.form-el {
+  margin: 1vh auto;
+}
+
+.form-label {
+  color: rgb(86, 111, 223);
+}
+
+.form-input {
+  padding: 5px 15px;
+  border: 0;
+  border-radius: 10px;
+  background-color: rgb(218, 223, 244);
+  outline: none;
+}
+
+.btn {
+  color: white;
+  background-color: rgb(27, 27, 102);
+  margin: 0.5vh auto;
+  border: 0;
+  outline: none;
+  padding: 5px 10px;
+  border-radius: 10px;
+}

@@ -1,0 +1,16 @@
+Express notes : 
+// Normal sending of message: - 
+
+1) npm init -y (we initialized our express , this will create Package.json).
+2) Then we create index.js where we will write our codes.
+3) To install express we used -> npm install express --save (This installs Express and also created node_modules, package-lock.json). 
+4) We can also add node_modules : npm i or npm install 
+5) Uninstall express : npm uninstall express
+
+// Sending html file : - 
+6) Now we are creating Html file and adding it 
+7) To install Nodemon in our system we use -> npm install -g nodemon
+
+// Sending JSON File :- 
+8) 
+

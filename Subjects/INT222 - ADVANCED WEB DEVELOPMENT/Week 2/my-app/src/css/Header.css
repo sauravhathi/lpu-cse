@@ -1,0 +1,14 @@
+header {
+  background-color: rgb(33, 52, 137);
+  padding: 2vh 3%;
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav.header-el {
+  color: white;
+  margin: auto 5px;
+}

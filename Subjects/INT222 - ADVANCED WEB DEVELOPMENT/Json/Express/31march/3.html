@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>socket broadcast</title>
+  </head>
+  <script src="/socket.io/socket.io.js"></script>
+  <body>
+    <input type="text" class="message" />
+    <button onclick="sendmessage()">send message</button>
+    <h1></h1>
+    <script>
+      const socket = io("http://localhost:3001");
+      socket.on("conection");
+      socket.on("message", (data) => {
+        document.querySelector("h1").innerHTML = data;
+      });
+      const sendmessage = () => {
+        const messageinput = document.querySelector(".message");
+        const message = messageinput.value;
+        socket.emit("message", message);
+      };
+    </script>
+  </body>
+</html>
