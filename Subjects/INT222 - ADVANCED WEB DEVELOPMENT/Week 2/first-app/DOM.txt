@@ -1,0 +1,18 @@
+DOM stands for Document Object Model
+
+<button id="Shantanu">Click Me</button>
+
+
+let btn = document.getElementById("Shantanu");
+// {
+  onclick:
+  innerText:
+  innerHTML:
+
+}
+
+// Task
+1. In your current react Project, create a JS file and write 2 react
+Components and name them Comp1 and Comp2 resp. there and show all the components in App.JS
+2. Use import and export statements
+3. Conditionally show Comp1 and Comp2 based on && operator
