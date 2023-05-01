@@ -32,7 +32,7 @@
 | cse316 | [cse316](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse316) | 📙 | 📃 |
 | CSE320 | [SOFTWARE ENGINEERING](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE320%20-%20SOFTWARE%20ENGINEERING) | 📙 | 📃 |
 | CSE322 | [FORMAL LANGUAGES AND AUTOMATION THEORY](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE322%20-%20FORMAL%20LANGUAGES%20AND%20AUTOMATION%20THEORY) | 📙 | 📃 |
-| cse325 | [cse325](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse325) | 📙 | 📃 |
+| CSE325 | [OPERATING SYSTEMS LABORATORY](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE325%20-%20OPERATING%20SYSTEMS%20LABORATORY) | 📙 | 📃 |
 | CSE332 | [INDUSTRY ETHICS AND LEGAL ISSUES](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE332%20-%20INDUSTRY%20ETHICS%20AND%20LEGAL%20ISSUES) | 📙 | 📃 |
 | CSE408 | [DESIGN AND ANALYSIS OF ALGORITHMS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE408%20-%20DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS) | 📙 | 📃 |
 | CSE423 | [VIRTUALIZATION AND CLOUD COMPUTING](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE423%20-%20VIRTUALIZATION%20AND%20CLOUD%20COMPUTING) | 📙 | 📃 |
