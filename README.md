@@ -43,10 +43,12 @@
 | int213 | [int213](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/int213) | 📙 | 📃 |
 | INT217 | [INTRODUCTION TO DATA MANAGEMENT](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT217%20-%20INTRODUCTION%20TO%20DATA%20MANAGEMENT) | 📙 | 📃 |
 | INT219 | [Front End Web Developer](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT219%20-%20Front%20End%20Web%20Developer) | 📙 | 📃 |
+| INT222 | [ADVANCED WEB DEVELOPMENT](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT222%20-%20ADVANCED%20WEB%20DEVELOPMENT) | 📙 | 📃 |
 | INT232 | [DATA SCIENCE TOOLBOX  R PROGRAMMING](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT232%20-%20DATA%20SCIENCE%20TOOLBOX%20%20R%20PROGRAMMING) | 📙 | 📃 |
 | INT233 | [DATA VISUALIZATION](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT233%20-%20DATA%20VISUALIZATION) | 📙 | 📃 |
 | INT242 | [Introduction to CYBER SECURITY ESSENTIALS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT242%20-%20Introduction%20to%20CYBER%20SECURITY%20ESSENTIALS) | 📙 | 📃 |
 | INT250 | [Digital Evidence Analysis](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT250%20-%20Digital%20Evidence%20Analysis) | 📙 | 📃 |
+| INT252 | [WEB APP DEVELOPMENT WITH REACTJS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT252%20-%20WEB%20APP%20DEVELOPMENT%20WITH%20REACTJS) | 📙 | 📃 |
 | INT254 | [INT254](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT254) | 📙 | 📃 |
 | INT306 | [DATABASE MANAGEMENT SYSTEMS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT306%20-%20DATABASE%20MANAGEMENT%20SYSTEMS) | 📙 | 📃 |
 | INT331 | [FUNDAMENTALS OF DEVOPS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT331%20-%20FUNDAMENTALS%20OF%20DEVOPS) | 📙 | 📃 |
