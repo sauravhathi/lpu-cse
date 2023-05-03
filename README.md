@@ -28,6 +28,7 @@
 | CSE202 | [OBJECT ORIENTED PROGRAMMING](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE202%20-%20OBJECT%20ORIENTED%20PROGRAMMING) | 📙 | 📃 |
 | CSE205 | [DATA STRUCTURES AND ALGORITHMS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE205%20-%20DATA%20STRUCTURES%20AND%20ALGORITHMS) | 📙 | 📃 |
 | cse211 | [cse211](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse211) | 📙 | 📃 |
+| CSE224 | [FUNDAMENTALS OF ANDROID](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE224%20-%20FUNDAMENTALS%20OF%20ANDROID) | 📙 | 📃 |
 | cse310 | [cse310](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse310) | 📙 | 📃 |
 | cse316 | [cse316](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/cse316) | 📙 | 📃 |
 | CSE320 | [SOFTWARE ENGINEERING](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/CSE320%20-%20SOFTWARE%20ENGINEERING) | 📙 | 📃 |
