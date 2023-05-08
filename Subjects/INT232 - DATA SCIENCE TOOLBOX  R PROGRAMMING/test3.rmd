@@ -1,0 +1,17 @@
+# R Markdown 
+
+**Part1**
+```{r}
+data(cars)
+str(cars)
+summary(cars)
+plot(cars)
+```
+## Save the file using extension .rmd 
+
+*Part2*
+```{r}
+hist(cars$speed)
+boxplot(cars$dist)
+```
+There were `r nrow(cars)` cars studied
