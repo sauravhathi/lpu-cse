@@ -1,0 +1,46 @@
+---
+title: "Visualization"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: scroll
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(ggplot2)
+library(tidyverse)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+ggplot(mpg) +
+  geom_bar(aes(x = class))
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+ggplot(mtcars, aes(x = drat, y = mpg)) +
+  geom_point()
+```
+
+### Chart C
+
+```{r}
+val <-data.frame(course=c('DSA','C++','R','Python'),
+                 num=c(77,55,80,60))
+ggplot(data=val, aes(x=course, y=num, group=1)) +
+  geom_line()+
+  geom_point()
+
+```
+

@@ -1,0 +1,58 @@
+---
+title: "Row Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(flexdashboard)
+library(knitr)
+library(ggplot2)
+library(plotly)
+library(dplyr)
+library(openintro)
+
+library(DT)
+library(highcharter)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Part1
+
+```{r}
+ggplot(mpg) +
+  geom_bar(aes(x = class))
+
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+Row {.tabset .tabset-fade}
+<!-- Row {.tabset .tabset-fade} -->
+---------------------------------------------
+### Part2
+
+```{r}
+ggplot(mtcars, aes(x = drat, y = mpg)) +
+  geom_point()
+
+```
+
+### Chart C
+
+```{r}
+val <-data.frame(course=c('DSA','C++','R','Python'),
+                 num=c(77,55,80,60))
+ggplot(data=val, aes(x=course, y=num, group=1)) +
+  geom_line()+
+  geom_point()
+
+```
+

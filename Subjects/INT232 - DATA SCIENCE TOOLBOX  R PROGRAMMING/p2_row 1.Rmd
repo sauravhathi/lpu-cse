@@ -1,0 +1,47 @@
+---
+title: "Tabset Row"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(ggplot2)
+library(tidyverse)
+```
+
+Row 
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+ggplot(mpg) +
+  geom_bar(aes(x = class))
+
+```
+
+Row {.tabset .tabset-fade}
+<!-- Row {.tabset .tabset-fade} -->
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+ggplot(mtcars, aes(x = drat, y = mpg)) +
+  geom_point()
+```
+
+
+### Chart C
+
+```{r}
+val <-data.frame(course=c('DSA','C++','R','Python'),
+                 num=c(77,55,80,60))
+ggplot(data=val, aes(x=course, y=num, group=1)) +
+  geom_line()+
+  geom_point()
+
+```
+
