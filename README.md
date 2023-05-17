@@ -63,6 +63,7 @@
 | math401 | [math401](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/math401) | 📙 | 📃 |
 | mec103 | [mec103](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/mec103) | 📙 | 📃 |
 | PEA305 | [ANALYTICAL SKILLS-I](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEA305%20-%20ANALYTICAL%20SKILLS-I) | 📙 | 📃 |
+| PEA306 | [ANALYTICAL SKILLS-II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEA306%20-%20ANALYTICAL%20SKILLS-II) | 📙 | 📃 |
 | PEA308 | [ADVANCED ANALYTICAL SKILLS-II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEA308%20-%20ADVANCED%20ANALYTICAL%20SKILLS-II) | 📙 | 📃 |
 | PES319 | [SOFT SKILLS-II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PES319%20-%20SOFT%20SKILLS-II) | 📙 | 📃 |
 | PEV107 | [VERBAL ABILITY-II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/PEV107%20-%20VERBAL%20ABILITY-II) | 📙 | 📃 |
