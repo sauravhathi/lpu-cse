@@ -62,7 +62,7 @@
     "side-channel": "^1.0.4",
     "socket.io": "^4.6.1",
     "socket.io-adapter": "^2.5.2",
-    "socket.io-parser": "^4.2.2",
+    "socket.io-parser": "^4.2.3",
     "statuses": "^2.0.1",
     "toidentifier": "^1.0.1",
     "type-is": "^1.6.18",
