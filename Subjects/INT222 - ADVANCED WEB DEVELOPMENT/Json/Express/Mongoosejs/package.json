@@ -42,7 +42,7 @@
     "mime": "^1.6.0",
     "mime-db": "^1.52.0",
     "mime-types": "^2.1.35",
-    "mongoose": "^7.0.3",
+    "mongoose": "^7.3.3",
     "ms": "^2.0.0",
     "negotiator": "^0.6.3",
     "object-assign": "^4.1.1",
