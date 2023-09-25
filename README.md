@@ -48,12 +48,14 @@
 | INT232 | [DATA SCIENCE TOOLBOX  R PROGRAMMING](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT232%20-%20DATA%20SCIENCE%20TOOLBOX%20%20R%20PROGRAMMING) | 📙 | 📃 |
 | INT233 | [DATA VISUALIZATION](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT233%20-%20DATA%20VISUALIZATION) | 📙 | 📃 |
 | INT242 | [Introduction to CYBER SECURITY ESSENTIALS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT242%20-%20Introduction%20to%20CYBER%20SECURITY%20ESSENTIALS) | 📙 | 📃 |
+| INT249 | [SYSTEM ADMINISTRATION](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT249%20-%20SYSTEM%20ADMINISTRATION) | 📙 | 📃 |
 | INT250 | [Digital Evidence Analysis](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT250%20-%20Digital%20Evidence%20Analysis) | 📙 | 📃 |
 | INT252 | [WEB APP DEVELOPMENT WITH REACTJS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT252%20-%20WEB%20APP%20DEVELOPMENT%20WITH%20REACTJS) | 📙 | 📃 |
 | INT254 | [INT254](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT254) | 📙 | 📃 |
 | INT306 | [DATABASE MANAGEMENT SYSTEMS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT306%20-%20DATABASE%20MANAGEMENT%20SYSTEMS) | 📙 | 📃 |
 | INT331 | [FUNDAMENTALS OF DEVOPS](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT331%20-%20FUNDAMENTALS%20OF%20DEVOPS) | 📙 | 📃 |
 | INT332 | [DEVOPS VIRTUALIZATION AND CONFIGURATION MANAGEMENT](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT332%20-%20DEVOPS%20VIRTUALIZATION%20AND%20CONFIGURATION%20MANAGEMENT) | 📙 | 📃 |
+| INT333 | [DEVOPS ADVANCE CONFIGURATION MANAGEMENT](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT333%20-%20DEVOPS%20ADVANCE%20CONFIGURATION%20MANAGEMENT) | 📙 | 📃 |
 | INT358 | [Backend Development I](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT358%20-%20Backend%20Development%20I) | 📙 | 📃 |
 | INT359 | [Front End Development II](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/INT359%20-%20Front%20End%20Development%20II) | 📙 | 📃 |
 | int404 | [int404](https://github.com/sauravhathi/lpu-cse/tree/master/Subjects/int404) | 📙 | 📃 |
